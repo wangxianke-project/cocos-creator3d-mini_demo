@@ -1,0 +1,3 @@
+# cocos-creator3d-mini_demo
+cocos creator3.3.2练手小功能
+实现了一些天空盒，ui展示3d模型，光照贴图，射线点击屏幕检测，简单的粒子特效...
