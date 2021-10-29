@@ -1,0 +1,2850 @@
+{
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes.meta": {
+    "time": 1635389356582.0813
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes": {
+    "time": 1635419127802.1367,
+    "uuid": "9999db0b-946d-4da0-8480-0228b7c6b4b1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts.meta": {
+    "time": 1635389385318.2527
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts": {
+    "time": 1635419349364.473,
+    "uuid": "f7977fbc-9fbc-4416-8a2a-dd3874e812cd",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res.meta": {
+    "time": 1635389404532.8684
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res": {
+    "time": 1635416805845.5354,
+    "uuid": "64454e8a-314f-433d-a41c-75a16fac73f4",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\prefabs.meta": {
+    "time": 1635389379122.7852
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\prefabs": {
+    "time": 1635389379118.7961,
+    "uuid": "45aee503-a9ed-425c-abaa-cedd640378a9",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\matierals.meta": {
+    "time": 1635389374114.1765
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\matierals": {
+    "time": 1635416233075.4978,
+    "uuid": "77133f96-f460-4c17-a12d-00cc8f2f5b0d",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles.meta": {
+    "time": 1635389423454.282
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles": {
+    "time": 1635405695032.796,
+    "uuid": "74886de9-4ad4-4595-8b73-dc9e3d072cec",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\skyCubes.meta": {
+    "time": 1635389446070.7817
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\skyCubes": {
+    "time": 1635412055586.5762,
+    "uuid": "fcb7b2dc-2a99-4936-aab9-286cea4a57d1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\terrainRes.meta": {
+    "time": 1635389649222.6106
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\terrainRes": {
+    "time": 1635389656119.1433,
+    "uuid": "8ab787f1-8f28-45cc-9886-b097f354949a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\terrainRes\\terrain.terrain.meta": {
+    "time": 1635389656125.1272
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\terrainRes\\terrain.terrain": {
+    "time": 1635413764667.074,
+    "uuid": "4263478a-19cf-48c9-9200-e8c60e2e3041",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\Terrain.scene.meta": {
+    "time": 1635389337569.5166
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\Terrain.scene": {
+    "time": 1635414066814.1194,
+    "uuid": "328d6691-7850-4966-95b0-f995e45ab755",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos.meta": {
+    "time": 1634109523551.065
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1634109523601.9292
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109523713.6304
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\helmet.mtl.meta": {
+    "time": 1619509968000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos": {
+    "time": 1635405791198.184,
+    "uuid": "4cb90679-bb85-40b8-a668-80583786f513",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\helmet.mtl": {
+    "time": 1619509968000,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1619509968000,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations.meta": {
+    "time": 1619509973000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\body.mtl.meta": {
+    "time": 1619509973000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\Cocos.prefab.meta": {
+    "time": 1634109523576.996
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1634109523575.0012
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1634109523573.0066
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1634109523582.9797
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1634109523588.964
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109523597.94
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1634109523596.9424
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1634109523749.5347
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1634109523741.5554
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1634109523736.5686
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1634109523729.6167
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1634109523740.558
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1634109523753.5232
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1634109523964.9575
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1634109523780.4512
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1634109523969.9446
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1634109523782.446
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1634109523968.947
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1634109523950.031
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1634109523993.88
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1634109524009.837
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1634109524318.0125
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1634109524019.8103
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1634109524321.0056
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1634109524028.7861
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1634109524317.0442
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1634109524057.709
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1634109524324.9944
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1634109524323.9976
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1634109524413.757
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1634109524397.7988
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1634109524414.7544
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations": {
+    "time": 1635405695018.834,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\body.mtl": {
+    "time": 1635415220075.4375,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\Cocos.prefab": {
+    "time": 1634109523561.0386,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01.bin": {
+    "time": 1619509968000,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1619509968000,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1619509968000,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1619509968000,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02.bin": {
+    "time": 1619509968000,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1619509968000,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": {
+    "time": 1619509968000,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_skel.gltf": {
+    "time": 1619509968000,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin": {
+    "time": 1619509968000,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1619509968000,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1619509968000,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1619509968000,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1619509968000,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1619509968000,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1619509968000,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1619509968000,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1619509968000,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1619509968000,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1619509968000,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1619509968000,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1619509968000,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1619509968000,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1619509968000,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1619509968000,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1619509968000,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1619509968000,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1619509968000,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1619509968000,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1619509968000,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1619509968000,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\physical.scene.meta": {
+    "time": 1635405784308.213
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\physical.scene": {
+    "time": 1635413245848.317,
+    "uuid": "9a3639d5-b755-42d5-a73e-2147a0cccd1b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts\\Physicals.ts.meta": {
+    "time": 1635410343978.4717
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts\\Physicals.ts": {
+    "time": 1635411894301.8086,
+    "uuid": "6a668038-a072-4c3f-91d4-40890b4896e1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\skyCubes\\cubemap.cubemap.meta": {
+    "time": 1635412231041.3271
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\skyCubes\\cubemap.cubemap": {
+    "time": 1635412055585.5789,
+    "uuid": "5c7b1e41-da65-4436-95d2-81f583ead492",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies.meta": {
+    "time": 1634183104410.6667
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\dry_sky_bottom.tga.meta": {
+    "time": 1634183104625.0928
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky.tga.meta": {
+    "time": 1634183104921.3003
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky_bottom.tga.meta": {
+    "time": 1634183104910.3296
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky_side.tga.meta": {
+    "time": 1634183104922.2976
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky_top.tga.meta": {
+    "time": 1634183104913.321
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies": {
+    "time": 1635412122099.737,
+    "uuid": "5d2c9c58-bcf7-4725-baf5-0b57bc5236bb",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Dry_sky.tga.meta": {
+    "time": 1634183119560.218
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Dry_sky_side.tga.meta": {
+    "time": 1634183119650.9753
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Dry_sky_top.tga.meta": {
+    "time": 1634183119638.0095
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Gas_sky.tga.meta": {
+    "time": 1634183104681.9402
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Gas_sky_bottom.tga.meta": {
+    "time": 1634183104633.0713
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Gas_sky_top.tga.meta": {
+    "time": 1634183104627.0876
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky.tga.meta": {
+    "time": 1634183104775.6897
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky_bottom.tga.meta": {
+    "time": 1634183104766.7134
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky_side.tga.meta": {
+    "time": 1634183104776.687
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky_top.tga.meta": {
+    "time": 1634183104785.6628
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\dry_sky_bottom.tga": {
+    "time": 1486216639000,
+    "uuid": "d6e1fa0a-902d-423b-8e8d-33fec64ee9e1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky_top.tga": {
+    "time": 1486216818000,
+    "uuid": "3a403c9a-45e5-49ed-9aa6-3200434fc0d2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky_bottom.tga": {
+    "time": 1486216576000,
+    "uuid": "9fd351ed-bf77-42f5-b782-2e695316135f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky_side.tga": {
+    "time": 1486216842000,
+    "uuid": "0d496619-8b1d-4ed0-bfd9-c9b557908e3d",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\lush_sky.tga": {
+    "time": 1486216620000,
+    "uuid": "972b9513-69b5-43a6-a139-abd0e525944e",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Dry_sky_top.tga": {
+    "time": 1486216609000,
+    "uuid": "c902ac9d-4df1-4742-8a1c-516185815ed0",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Dry_sky.tga": {
+    "time": 1486216812000,
+    "uuid": "6c3c431e-00d1-4135-8b57-1316a76546a4",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Gas_sky_bottom.tga": {
+    "time": 1486216650000,
+    "uuid": "de49d4d6-5ca1-4edd-9392-fbce712e8272",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Dry_sky_side.tga": {
+    "time": 1486216757000,
+    "uuid": "e8144ca4-c5ec-4640-80d9-7265a4f606a8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Gas_sky.tga": {
+    "time": 1486216836000,
+    "uuid": "b2bd3a85-1a42-4f6d-aa99-3c71ea45f056",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Gas_sky_top.tga": {
+    "time": 1486216703000,
+    "uuid": "d60dc53a-0b6e-41d3-a72e-e89ac7c958c0",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky_bottom.tga": {
+    "time": 1486216696000,
+    "uuid": "419d7b71-2b65-4823-b475-fa5def4230c2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky.tga": {
+    "time": 1486216599000,
+    "uuid": "ab3f296e-d477-4c64-9448-04d6f44e4eca",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky_top.tga": {
+    "time": 1486216739000,
+    "uuid": "be70bd38-e4d3-461f-a8c8-b721e7f178a1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\Skies\\Ice_sky_side.tga": {
+    "time": 1486216584000,
+    "uuid": "077f3f6b-5be0-4037-a36d-08e5b5504572",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\lightMap.scene.meta": {
+    "time": 1635414988284.5774
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\lightMap.scene": {
+    "time": 1635416431024.297,
+    "uuid": "bb505e61-e193-475e-a260-498c029b54d5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap.meta": {
+    "time": 1635415306033.793
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX.meta": {
+    "time": 1635415306034.7903
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap": {
+    "time": 1635415306019.83,
+    "uuid": "13d00c21-5982-4026-b8ad-84e4b0cb3d8c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX": {
+    "time": 1635416362908.979,
+    "uuid": "607855d3-e30a-4291-8c91-c8acaaf2043a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\matierals\\material.mtl.meta": {
+    "time": 1635416233083.4763
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\matierals\\material.mtl": {
+    "time": 1635416264256.1128,
+    "uuid": "50c82fff-8fec-48d0-884f-abc7ec07944f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\output.meta": {
+    "time": 1635416362792.2913
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\output\\lfx.o.meta": {
+    "time": 1635416362798.276
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png.meta": {
+    "time": 1635416362806.2542
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\output": {
+    "time": 1635416362788.3027,
+    "uuid": "b0bcee02-dd40-440d-971b-a90613f0e1e7",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\output\\lfx.o": {
+    "time": 1635416362714.4988,
+    "uuid": "87ed8cf6-dc96-4d30-9d07-3ae27399746d",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png": {
+    "time": 1635416362713.502,
+    "uuid": "adf29c89-c37e-4f05-bcc2-10e357504e02",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\lfx.log.meta": {
+    "time": 1635416362921.9458
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\tmp.meta": {
+    "time": 1635416362912.9683
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i.meta": {
+    "time": 1635416362917.9553
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\tmp": {
+    "time": 1635416362908.979,
+    "uuid": "0fe4641e-c9bf-4463-b4f1-9a9218dd364d",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i": {
+    "time": 1635416360881.401,
+    "uuid": "5d74bd27-5bbe-482e-ae8b-3b47bc63510f",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\lightMap\\LightFX\\lfx.log": {
+    "time": 1635416362714.4988,
+    "uuid": "27ac2d6b-6fa5-4af5-9090-d0a30cc8aa26",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\uiShow3d.scene.meta": {
+    "time": 1635416502887.0708
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\uiShow3d.scene": {
+    "time": 1635418580885.4055,
+    "uuid": "e325986b-d668-40b4-bd58-5662445b19e3",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\render-texture.rt.meta": {
+    "time": 1635416805849.5247
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\render-texture.rt": {
+    "time": 1635418082845.5493,
+    "uuid": "2987d094-7172-4624-877a-32ffc74e1be2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts\\uiShow3d.ts.meta": {
+    "time": 1635416909832.6582
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts\\uiShow3d.ts": {
+    "time": 1635418879772.5093,
+    "uuid": "1df05846-816f-4e0c-a385-e38fe82cd758",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\hpShow.scene.meta": {
+    "time": 1635419127816.0989
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\hpShow.scene": {
+    "time": 1635421367018.0835,
+    "uuid": "9604eaa0-e8ab-4113-9898-3c3293ae85b4",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts\\playerControll.ts.meta": {
+    "time": 1635419349368.463
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scripts\\playerControll.ts": {
+    "time": 1635421356567.5095,
+    "uuid": "a8104277-ddee-4145-8ea6-1ecf4c734c4a",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res": {
+    "time": 1635427714816.525,
+    "uuid": "64454e8a-314f-433d-a41c-75a16fac73f4",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes": {
+    "time": 1635427714876.521,
+    "uuid": "9999db0b-946d-4da0-8480-0228b7c6b4b1",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts": {
+    "time": 1635427714896.5198,
+    "uuid": "f7977fbc-9fbc-4416-8a2a-dd3874e812cd",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap": {
+    "time": 1635427712812.7783,
+    "uuid": "13d00c21-5982-4026-b8ad-84e4b0cb3d8c",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\matierals": {
+    "time": 1635427712862.7751,
+    "uuid": "77133f96-f460-4c17-a12d-00cc8f2f5b0d",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles": {
+    "time": 1635427712872.7515,
+    "uuid": "74886de9-4ad4-4595-8b73-dc9e3d072cec",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\prefabs": {
+    "time": 1635389380000,
+    "uuid": "45aee503-a9ed-425c-abaa-cedd640378a9",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\render-texture.rt": {
+    "time": 1635418084000,
+    "uuid": "2987d094-7172-4624-877a-32ffc74e1be2",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies": {
+    "time": 1635427714806.526,
+    "uuid": "5d2c9c58-bcf7-4725-baf5-0b57bc5236bb",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\skyCubes": {
+    "time": 1635427714816.525,
+    "uuid": "fcb7b2dc-2a99-4936-aab9-286cea4a57d1",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\terrainRes": {
+    "time": 1635427714836.5234,
+    "uuid": "8ab787f1-8f28-45cc-9886-b097f354949a",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\hpShow.scene": {
+    "time": 1635436070457.7476,
+    "uuid": "9604eaa0-e8ab-4113-9898-3c3293ae85b4",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\lightMap.scene": {
+    "time": 1635416432000,
+    "uuid": "bb505e61-e193-475e-a260-498c029b54d5",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\physical.scene": {
+    "time": 1635413246000,
+    "uuid": "9a3639d5-b755-42d5-a73e-2147a0cccd1b",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\Terrain.scene": {
+    "time": 1635414068000,
+    "uuid": "328d6691-7850-4966-95b0-f995e45ab755",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\uiShow3d.scene": {
+    "time": 1635418582000,
+    "uuid": "e325986b-d668-40b4-bd58-5662445b19e3",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts\\Physicals.ts": {
+    "time": 1635411896000,
+    "uuid": "6a668038-a072-4c3f-91d4-40890b4896e1",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts\\playerControll.ts": {
+    "time": 1635438457360.776,
+    "uuid": "a8104277-ddee-4145-8ea6-1ecf4c734c4a",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts\\uiShow3d.ts": {
+    "time": 1635418880000,
+    "uuid": "1df05846-816f-4e0c-a385-e38fe82cd758",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX": {
+    "time": 1635427712842.7769,
+    "uuid": "607855d3-e30a-4291-8c91-c8acaaf2043a",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\matierals\\material.mtl": {
+    "time": 1635428073346.6929,
+    "uuid": "50c82fff-8fec-48d0-884f-abc7ec07944f",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos": {
+    "time": 1635427713382.7346,
+    "uuid": "4cb90679-bb85-40b8-a668-80583786f513",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Dry_sky.tga": {
+    "time": 1486216812000,
+    "uuid": "6c3c431e-00d1-4135-8b57-1316a76546a4",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\dry_sky_bottom.tga": {
+    "time": 1486216640000,
+    "uuid": "d6e1fa0a-902d-423b-8e8d-33fec64ee9e1",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Dry_sky_side.tga": {
+    "time": 1486216758000,
+    "uuid": "e8144ca4-c5ec-4640-80d9-7265a4f606a8",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Dry_sky_top.tga": {
+    "time": 1486216610000,
+    "uuid": "c902ac9d-4df1-4742-8a1c-516185815ed0",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Gas_sky.tga": {
+    "time": 1486216836000,
+    "uuid": "b2bd3a85-1a42-4f6d-aa99-3c71ea45f056",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Gas_sky_bottom.tga": {
+    "time": 1486216650000,
+    "uuid": "de49d4d6-5ca1-4edd-9392-fbce712e8272",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Gas_sky_top.tga": {
+    "time": 1486216704000,
+    "uuid": "d60dc53a-0b6e-41d3-a72e-e89ac7c958c0",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky.tga": {
+    "time": 1486216600000,
+    "uuid": "ab3f296e-d477-4c64-9448-04d6f44e4eca",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky_bottom.tga": {
+    "time": 1486216696000,
+    "uuid": "419d7b71-2b65-4823-b475-fa5def4230c2",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky_side.tga": {
+    "time": 1486216584000,
+    "uuid": "077f3f6b-5be0-4037-a36d-08e5b5504572",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky_top.tga": {
+    "time": 1486216740000,
+    "uuid": "be70bd38-e4d3-461f-a8c8-b721e7f178a1",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky.tga": {
+    "time": 1486216620000,
+    "uuid": "972b9513-69b5-43a6-a139-abd0e525944e",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky_bottom.tga": {
+    "time": 1486216576000,
+    "uuid": "9fd351ed-bf77-42f5-b782-2e695316135f",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky_side.tga": {
+    "time": 1486216842000,
+    "uuid": "0d496619-8b1d-4ed0-bfd9-c9b557908e3d",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky_top.tga": {
+    "time": 1486216818000,
+    "uuid": "3a403c9a-45e5-49ed-9aa6-3200434fc0d2",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\skyCubes\\cubemap.cubemap": {
+    "time": 1635412056000,
+    "uuid": "5c7b1e41-da65-4436-95d2-81f583ead492",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\terrainRes\\terrain.terrain": {
+    "time": 1635413766000,
+    "uuid": "4263478a-19cf-48c9-9200-e8c60e2e3041",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\lfx.log": {
+    "time": 1635416364000,
+    "uuid": "27ac2d6b-6fa5-4af5-9090-d0a30cc8aa26",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\output": {
+    "time": 1635427712842.7769,
+    "uuid": "b0bcee02-dd40-440d-971b-a90613f0e1e7",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp": {
+    "time": 1635427712852.7717,
+    "uuid": "0fe4641e-c9bf-4463-b4f1-9a9218dd364d",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations": {
+    "time": 1635427713666.6094,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\body.mtl": {
+    "time": 1635428074845.4575,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\Cocos.prefab": {
+    "time": 1634109524000,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01.bin": {
+    "time": 1619509968000,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1619509968000,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1619509968000,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1619509968000,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02.bin": {
+    "time": 1619509968000,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1619509968000,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": {
+    "time": 1619509968000,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1619509968000,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel.gltf": {
+    "time": 1619509968000,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1619509968000,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin": {
+    "time": 1619509968000,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\helmet.mtl": {
+    "time": 1619509968000,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\lfx.o": {
+    "time": 1635416364000,
+    "uuid": "87ed8cf6-dc96-4d30-9d07-3ae27399746d",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png": {
+    "time": 1635416364000,
+    "uuid": "adf29c89-c37e-4f05-bcc2-10e357504e02",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i": {
+    "time": 1635416362000,
+    "uuid": "5d74bd27-5bbe-482e-ae8b-3b47bc63510f",
+    "missing": true
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1619509968000,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1619509968000,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1619509968000,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1619509968000,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1619509968000,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1619509968000,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1619509968000,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1619509968000,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1619509968000,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1619509968000,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1619509968000,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1619509968000,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1619509968000,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1619509968000,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1619509968000,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1619509968000,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1619509968000,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1619509968000,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1619509968000,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1619509968000,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res.meta": {
+    "time": 1635389406000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes.meta": {
+    "time": 1635389358000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts.meta": {
+    "time": 1635389386000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap.meta": {
+    "time": 1635415308000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\matierals.meta": {
+    "time": 1635389376000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles.meta": {
+    "time": 1635389424000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\prefabs.meta": {
+    "time": 1635389380000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\skyCubes.meta": {
+    "time": 1635389448000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\terrainRes.meta": {
+    "time": 1635389650000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\hpShow.scene.meta": {
+    "time": 1635419128000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\physical.scene.meta": {
+    "time": 1635405786000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\lightMap.scene.meta": {
+    "time": 1635414990000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\Terrain.scene.meta": {
+    "time": 1635389338000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts\\Physicals.ts.meta": {
+    "time": 1635410344000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX.meta": {
+    "time": 1635415308000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts\\playerControll.ts.meta": {
+    "time": 1635419350000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scripts\\uiShow3d.ts.meta": {
+    "time": 1635416910000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\render-texture.rt.meta": {
+    "time": 1635416806000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\matierals\\material.mtl.meta": {
+    "time": 1635416234000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\scenes\\uiShow3d.scene.meta": {
+    "time": 1635416504000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\dry_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Dry_sky_top.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Dry_sky.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Gas_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Dry_sky_side.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Gas_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Gas_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky_side.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\Ice_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\skyCubes\\cubemap.cubemap.meta": {
+    "time": 1635412232000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\output.meta": {
+    "time": 1635416364000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp.meta": {
+    "time": 1635416364000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations.meta": {
+    "time": 1619509974000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\terrainRes\\terrain.terrain.meta": {
+    "time": 1635389658000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\body.mtl.meta": {
+    "time": 1619509974000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\lfx.log.meta": {
+    "time": 1635416364000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\Cocos.prefab.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\Skies\\lush_sky_side.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\helmet.mtl.meta": {
+    "time": 1619509968000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\lfx.o.meta": {
+    "time": 1635416364000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i.meta": {
+    "time": 1635416364000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png.meta": {
+    "time": 1635416364000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res": {
+    "time": 1635494033607.0889,
+    "uuid": "64454e8a-314f-433d-a41c-75a16fac73f4",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes": {
+    "time": 1635494843713.2192,
+    "uuid": "9999db0b-946d-4da0-8480-0228b7c6b4b1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts": {
+    "time": 1635495001043.2556,
+    "uuid": "f7977fbc-9fbc-4416-8a2a-dd3874e812cd",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap": {
+    "time": 1635469670293.3242,
+    "uuid": "13d00c21-5982-4026-b8ad-84e4b0cb3d8c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals": {
+    "time": 1635493377728.854,
+    "uuid": "77133f96-f460-4c17-a12d-00cc8f2f5b0d",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles": {
+    "time": 1635469670422.9773,
+    "uuid": "74886de9-4ad4-4595-8b73-dc9e3d072cec",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\prefabs": {
+    "time": 1635389380000,
+    "uuid": "45aee503-a9ed-425c-abaa-cedd640378a9",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\render-texture.rt": {
+    "time": 1635418084000,
+    "uuid": "2987d094-7172-4624-877a-32ffc74e1be2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies": {
+    "time": 1635469672573.036,
+    "uuid": "5d2c9c58-bcf7-4725-baf5-0b57bc5236bb",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\skyCubes": {
+    "time": 1635492777536.7937,
+    "uuid": "fcb7b2dc-2a99-4936-aab9-286cea4a57d1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes": {
+    "time": 1635490920487.0322,
+    "uuid": "8ab787f1-8f28-45cc-9886-b097f354949a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\hpShow.scene": {
+    "time": 1635436072000,
+    "uuid": "9604eaa0-e8ab-4113-9898-3c3293ae85b4",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\lightMap.scene": {
+    "time": 1635416432000,
+    "uuid": "bb505e61-e193-475e-a260-498c029b54d5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\physical.scene": {
+    "time": 1635413246000,
+    "uuid": "9a3639d5-b755-42d5-a73e-2147a0cccd1b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\Terrain.scene": {
+    "time": 1635414068000,
+    "uuid": "328d6691-7850-4966-95b0-f995e45ab755",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\uiShow3d.scene": {
+    "time": 1635418582000,
+    "uuid": "e325986b-d668-40b4-bd58-5662445b19e3",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\Physicals.ts": {
+    "time": 1635411896000,
+    "uuid": "6a668038-a072-4c3f-91d4-40890b4896e1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\playerControll.ts": {
+    "time": 1635438458000,
+    "uuid": "a8104277-ddee-4145-8ea6-1ecf4c734c4a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\uiShow3d.ts": {
+    "time": 1635418880000,
+    "uuid": "1df05846-816f-4e0c-a385-e38fe82cd758",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX": {
+    "time": 1635493461692.7659,
+    "uuid": "607855d3-e30a-4291-8c91-c8acaaf2043a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material.mtl": {
+    "time": 1635471018445.4624,
+    "uuid": "50c82fff-8fec-48d0-884f-abc7ec07944f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos": {
+    "time": 1635469670958.3992,
+    "uuid": "4cb90679-bb85-40b8-a668-80583786f513",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Dry_sky.tga": {
+    "time": 1486216812000,
+    "uuid": "6c3c431e-00d1-4135-8b57-1316a76546a4",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\dry_sky_bottom.tga": {
+    "time": 1486216640000,
+    "uuid": "d6e1fa0a-902d-423b-8e8d-33fec64ee9e1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Dry_sky_side.tga": {
+    "time": 1486216758000,
+    "uuid": "e8144ca4-c5ec-4640-80d9-7265a4f606a8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Dry_sky_top.tga": {
+    "time": 1486216610000,
+    "uuid": "c902ac9d-4df1-4742-8a1c-516185815ed0",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Gas_sky.tga": {
+    "time": 1486216836000,
+    "uuid": "b2bd3a85-1a42-4f6d-aa99-3c71ea45f056",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Gas_sky_bottom.tga": {
+    "time": 1486216650000,
+    "uuid": "de49d4d6-5ca1-4edd-9392-fbce712e8272",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Gas_sky_top.tga": {
+    "time": 1486216704000,
+    "uuid": "d60dc53a-0b6e-41d3-a72e-e89ac7c958c0",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky.tga": {
+    "time": 1486216600000,
+    "uuid": "ab3f296e-d477-4c64-9448-04d6f44e4eca",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky_bottom.tga": {
+    "time": 1486216696000,
+    "uuid": "419d7b71-2b65-4823-b475-fa5def4230c2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky_side.tga": {
+    "time": 1486216584000,
+    "uuid": "077f3f6b-5be0-4037-a36d-08e5b5504572",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky_top.tga": {
+    "time": 1486216740000,
+    "uuid": "be70bd38-e4d3-461f-a8c8-b721e7f178a1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky.tga": {
+    "time": 1486216620000,
+    "uuid": "972b9513-69b5-43a6-a139-abd0e525944e",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky_bottom.tga": {
+    "time": 1486216576000,
+    "uuid": "9fd351ed-bf77-42f5-b782-2e695316135f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky_side.tga": {
+    "time": 1486216842000,
+    "uuid": "0d496619-8b1d-4ed0-bfd9-c9b557908e3d",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky_top.tga": {
+    "time": 1486216818000,
+    "uuid": "3a403c9a-45e5-49ed-9aa6-3200434fc0d2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\skyCubes\\cubemap.cubemap": {
+    "time": 1635412056000,
+    "uuid": "5c7b1e41-da65-4436-95d2-81f583ead492",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes\\terrain.terrain": {
+    "time": 1635476949261.9578,
+    "uuid": "4263478a-19cf-48c9-9200-e8c60e2e3041",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations": {
+    "time": 1635469671403.9023,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\body.mtl": {
+    "time": 1635471018906.7952,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\Cocos.prefab": {
+    "time": 1634109524000,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01.bin": {
+    "time": 1619509968000,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1619509968000,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1619509968000,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1619509968000,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02.bin": {
+    "time": 1619509968000,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1619509968000,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": {
+    "time": 1619509968000,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1619509968000,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel.gltf": {
+    "time": 1619509968000,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1619509968000,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin": {
+    "time": 1619509968000,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\helmet.mtl": {
+    "time": 1619509968000,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1619509968000,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1619509968000,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1619509968000,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1619509968000,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1619509968000,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1619509968000,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1619509968000,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1619509968000,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1619509968000,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1619509968000,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1619509968000,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1619509968000,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1619509968000,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1619509968000,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1619509968000,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1619509968000,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1619509968000,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1619509968000,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1619509968000,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1619509968000,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res.meta": {
+    "time": 1635389406000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes.meta": {
+    "time": 1635389358000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts.meta": {
+    "time": 1635389386000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap.meta": {
+    "time": 1635415308000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals.meta": {
+    "time": 1635389376000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles.meta": {
+    "time": 1635389424000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\prefabs.meta": {
+    "time": 1635389380000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\skyCubes.meta": {
+    "time": 1635389448000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes.meta": {
+    "time": 1635389650000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\lightMap.scene.meta": {
+    "time": 1635414990000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\Terrain.scene.meta": {
+    "time": 1635389338000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\hpShow.scene.meta": {
+    "time": 1635419128000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\Physicals.ts.meta": {
+    "time": 1635410344000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\physical.scene.meta": {
+    "time": 1635405786000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX.meta": {
+    "time": 1635415308000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\playerControll.ts.meta": {
+    "time": 1635419350000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\uiShow3d.ts.meta": {
+    "time": 1635416910000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material.mtl.meta": {
+    "time": 1635416234000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\uiShow3d.scene.meta": {
+    "time": 1635416504000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\render-texture.rt.meta": {
+    "time": 1635416806000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Dry_sky_top.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\dry_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Dry_sky_side.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Dry_sky.tga.meta": {
+    "time": 1635487901089.3374
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Gas_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Gas_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Gas_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky_side.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\Ice_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\skyCubes\\cubemap.cubemap.meta": {
+    "time": 1635412232000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky_top.tga.meta": {
+    "time": 1635478863176.7888
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations.meta": {
+    "time": 1619509974000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\body.mtl.meta": {
+    "time": 1619509974000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes\\terrain.terrain.meta": {
+    "time": 1635389658000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\Skies\\lush_sky_side.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\Cocos.prefab.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1635478940254.0603
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\helmet.mtl.meta": {
+    "time": 1619509968000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\partical.scene.meta": {
+    "time": 1635471057768.989
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\partical.scene": {
+    "time": 1635488532920.42,
+    "uuid": "8034a3ab-ff47-46aa-a179-8af6c888c734",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\ray.ts.meta": {
+    "time": 1635471246569.1394
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\ray.ts": {
+    "time": 1635488960863.2725,
+    "uuid": "c320a676-4843-41b5-be95-5f0447bcf7c8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material-001.mtl.meta": {
+    "time": 1635478837840.649
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material-001.mtl": {
+    "time": 1635478995474.3955,
+    "uuid": "211e4954-5453-42f8-ab4e-5d95346a5049",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\goldBig.png.meta": {
+    "time": 1635490388480.5632
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\goldBig.png": {
+    "time": 1631176690000,
+    "uuid": "835ebc3d-5dba-454b-85d4-7f7e62c57975",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material-002.mtl.meta": {
+    "time": 1635479177650.239
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material-002.mtl": {
+    "time": 1635479195539.4333,
+    "uuid": "f84df7df-3b3c-45fc-8566-f48b41640616",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes\\terrain-001.terrain.meta": {
+    "time": 1635480144807.9585
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes\\terrain-001.terrain": {
+    "time": 1635480174322.0344,
+    "uuid": "3fa138bb-39e9-4d7b-8206-f52b130bee24",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes\\terrain22.terrain.meta": {
+    "time": 1635490920496.369
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\terrainRes\\terrain22.terrain": {
+    "time": 1635493220152.6594,
+    "uuid": "5de30099-8955-4293-94a8-c9f421e0a57a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\collision.ts.meta": {
+    "time": 1635492001170.2524
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\collision.ts": {
+    "time": 1635492721530.684,
+    "uuid": "f0f249db-54a7-453e-8b23-5f4b685fe518",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\test1.scene.meta": {
+    "time": 1635492370070.8337
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\test1.scene": {
+    "time": 1635497465931.4312,
+    "uuid": "483de5fb-fa00-4444-a38f-5fddac612ae3",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\skyCubes\\sky.cubemap.meta": {
+    "time": 1635492883403.6829
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\skyCubes\\sky.cubemap": {
+    "time": 1635492777535.4744,
+    "uuid": "a06b16c4-ab8c-4db9-aa22-b7ae57b970d8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\cubemat.mtl.meta": {
+    "time": 1635493377735.8357
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\cubemat.mtl": {
+    "time": 1635493405690.0667,
+    "uuid": "09ad4eab-de58-4edd-91cb-d7ce225e8e04",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output.meta": {
+    "time": 1635493461565.5466
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\lfx.o.meta": {
+    "time": 1635493461577.5142
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png.meta": {
+    "time": 1635493461588.4849
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\LFX_Terrain_0000.png.meta": {
+    "time": 1635493461586.4907
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output": {
+    "time": 1635493461559.563,
+    "uuid": "87d2bb3c-f7d3-4b3b-b136-483830c32f0c",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\lfx.o": {
+    "time": 1635493461541.6099,
+    "uuid": "31daf93d-3117-45e4-a6df-aef7a7b0f1bd",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\LFX_Terrain_0000.png": {
+    "time": 1635493461465.8137,
+    "uuid": "d3661250-9fc7-4c38-800f-90ca4f71a68d",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png": {
+    "time": 1635493461541.6099,
+    "uuid": "d1dc6523-8811-4c3a-a89d-231e943bc898",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\lfx.log.meta": {
+    "time": 1635493461712.7136
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp.meta": {
+    "time": 1635493461697.753
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i.meta": {
+    "time": 1635493461702.7397
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp": {
+    "time": 1635493461693.7637,
+    "uuid": "9c128a0f-6dbe-4f19-9e47-4a511294f592",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i": {
+    "time": 1635493458112.5737,
+    "uuid": "cd775ab5-03a3-4764-ad34-1d48eb5b2093",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\lightMap\\LightFX\\lfx.log": {
+    "time": 1635493461542.6074,
+    "uuid": "ca11547e-1118-4a70-a8c9-20bdba1d9818",
+    "missing": true
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\render22-texture.rt.meta": {
+    "time": 1635494033619.0579
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\render22-texture.rt": {
+    "time": 1635494053555.4133,
+    "uuid": "940f1e68-438d-4e73-98fa-b7bd79c66030",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\bagSHowModle.ts.meta": {
+    "time": 1635494096097.4773
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\bagSHowModle.ts": {
+    "time": 1635497458649.9707,
+    "uuid": "b1bddc86-60b1-4473-80ee-f5c863337477",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\test2.scene.meta": {
+    "time": 1635494843728.6863
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\test2.scene": {
+    "time": 1635496576673.8425,
+    "uuid": "d96eccdf-5a58-42c3-86b3-1916abf2e458",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\hpSp.ts.meta": {
+    "time": 1635495001048.2415
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scripts\\hpSp.ts": {
+    "time": 1635497191804.0195,
+    "uuid": "5750d25c-69ac-4e64-8270-32a5951ba131",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res": {
+    "time": 1635494033607.0889,
+    "uuid": "64454e8a-314f-433d-a41c-75a16fac73f4",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes": {
+    "time": 1635502205974.3335,
+    "uuid": "9999db0b-946d-4da0-8480-0228b7c6b4b1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts": {
+    "time": 1635499890191.7512,
+    "uuid": "f7977fbc-9fbc-4416-8a2a-dd3874e812cd",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap": {
+    "time": 1635469670293.3242,
+    "uuid": "13d00c21-5982-4026-b8ad-84e4b0cb3d8c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals": {
+    "time": 1635500843751.281,
+    "uuid": "77133f96-f460-4c17-a12d-00cc8f2f5b0d",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles": {
+    "time": 1635469670422.9773,
+    "uuid": "74886de9-4ad4-4595-8b73-dc9e3d072cec",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\prefabs": {
+    "time": 1635389380000,
+    "uuid": "45aee503-a9ed-425c-abaa-cedd640378a9",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\render-texture.rt": {
+    "time": 1635418084000,
+    "uuid": "2987d094-7172-4624-877a-32ffc74e1be2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\render22-texture.rt": {
+    "time": 1635494053555.4133,
+    "uuid": "940f1e68-438d-4e73-98fa-b7bd79c66030",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies": {
+    "time": 1635469672573.036,
+    "uuid": "5d2c9c58-bcf7-4725-baf5-0b57bc5236bb",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\skyCubes": {
+    "time": 1635492777536.7937,
+    "uuid": "fcb7b2dc-2a99-4936-aab9-286cea4a57d1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes": {
+    "time": 1635490920487.0322,
+    "uuid": "8ab787f1-8f28-45cc-9886-b097f354949a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\lightMap.scene": {
+    "time": 1635501253340.9426,
+    "uuid": "bb505e61-e193-475e-a260-498c029b54d5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\partical.scene": {
+    "time": 1635500378321.7202,
+    "uuid": "8034a3ab-ff47-46aa-a179-8af6c888c734",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\physical.scene": {
+    "time": 1635413246000,
+    "uuid": "9a3639d5-b755-42d5-a73e-2147a0cccd1b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\uiShow3d.scene": {
+    "time": 1635418582000,
+    "uuid": "e325986b-d668-40b4-bd58-5662445b19e3",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\bagSHowModle.ts": {
+    "time": 1635497458649.9707,
+    "uuid": "b1bddc86-60b1-4473-80ee-f5c863337477",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\collision.ts": {
+    "time": 1635501964118.9941,
+    "uuid": "f0f249db-54a7-453e-8b23-5f4b685fe518",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\hpSp.ts": {
+    "time": 1635498390460.496,
+    "uuid": "5750d25c-69ac-4e64-8270-32a5951ba131",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\playerControll.ts": {
+    "time": 1635438458000,
+    "uuid": "a8104277-ddee-4145-8ea6-1ecf4c734c4a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\ray.ts": {
+    "time": 1635488960863.2725,
+    "uuid": "c320a676-4843-41b5-be95-5f0447bcf7c8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\uiShow3d.ts": {
+    "time": 1635418880000,
+    "uuid": "1df05846-816f-4e0c-a385-e38fe82cd758",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX": {
+    "time": 1635501202605.723,
+    "uuid": "607855d3-e30a-4291-8c91-c8acaaf2043a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\cubemat.mtl": {
+    "time": 1635497756057.2004,
+    "uuid": "09ad4eab-de58-4edd-91cb-d7ce225e8e04",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-001.mtl": {
+    "time": 1635501356455.9539,
+    "uuid": "211e4954-5453-42f8-ab4e-5d95346a5049",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-002.mtl": {
+    "time": 1635501136145.7253,
+    "uuid": "f84df7df-3b3c-45fc-8566-f48b41640616",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material.mtl": {
+    "time": 1635497756069.1685,
+    "uuid": "50c82fff-8fec-48d0-884f-abc7ec07944f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos": {
+    "time": 1635469670958.3992,
+    "uuid": "4cb90679-bb85-40b8-a668-80583786f513",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Dry_sky.tga": {
+    "time": 1486216812000,
+    "uuid": "6c3c431e-00d1-4135-8b57-1316a76546a4",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\dry_sky_bottom.tga": {
+    "time": 1486216640000,
+    "uuid": "d6e1fa0a-902d-423b-8e8d-33fec64ee9e1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Dry_sky_side.tga": {
+    "time": 1486216758000,
+    "uuid": "e8144ca4-c5ec-4640-80d9-7265a4f606a8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Dry_sky_top.tga": {
+    "time": 1486216610000,
+    "uuid": "c902ac9d-4df1-4742-8a1c-516185815ed0",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Gas_sky.tga": {
+    "time": 1486216836000,
+    "uuid": "b2bd3a85-1a42-4f6d-aa99-3c71ea45f056",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Gas_sky_bottom.tga": {
+    "time": 1486216650000,
+    "uuid": "de49d4d6-5ca1-4edd-9392-fbce712e8272",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Gas_sky_top.tga": {
+    "time": 1486216704000,
+    "uuid": "d60dc53a-0b6e-41d3-a72e-e89ac7c958c0",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky.tga": {
+    "time": 1486216600000,
+    "uuid": "ab3f296e-d477-4c64-9448-04d6f44e4eca",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky_bottom.tga": {
+    "time": 1486216696000,
+    "uuid": "419d7b71-2b65-4823-b475-fa5def4230c2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky_side.tga": {
+    "time": 1486216584000,
+    "uuid": "077f3f6b-5be0-4037-a36d-08e5b5504572",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky_top.tga": {
+    "time": 1486216740000,
+    "uuid": "be70bd38-e4d3-461f-a8c8-b721e7f178a1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky.tga": {
+    "time": 1486216620000,
+    "uuid": "972b9513-69b5-43a6-a139-abd0e525944e",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky_bottom.tga": {
+    "time": 1486216576000,
+    "uuid": "9fd351ed-bf77-42f5-b782-2e695316135f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky_side.tga": {
+    "time": 1486216842000,
+    "uuid": "0d496619-8b1d-4ed0-bfd9-c9b557908e3d",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky_top.tga": {
+    "time": 1486216818000,
+    "uuid": "3a403c9a-45e5-49ed-9aa6-3200434fc0d2",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\skyCubes\\cubemap.cubemap": {
+    "time": 1635412056000,
+    "uuid": "5c7b1e41-da65-4436-95d2-81f583ead492",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\skyCubes\\sky.cubemap": {
+    "time": 1635492777535.4744,
+    "uuid": "a06b16c4-ab8c-4db9-aa22-b7ae57b970d8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes\\terrain-001.terrain": {
+    "time": 1635480174322.0344,
+    "uuid": "3fa138bb-39e9-4d7b-8206-f52b130bee24",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes\\terrain.terrain": {
+    "time": 1635501407036.6956,
+    "uuid": "4263478a-19cf-48c9-9200-e8c60e2e3041",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes\\terrain22.terrain": {
+    "time": 1635501580129.9077,
+    "uuid": "5de30099-8955-4293-94a8-c9f421e0a57a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations": {
+    "time": 1635469671403.9023,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\body.mtl": {
+    "time": 1635497756689.7402,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\Cocos.prefab": {
+    "time": 1634109524000,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01.bin": {
+    "time": 1619509968000,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1619509968000,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1619509968000,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1619509968000,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02.bin": {
+    "time": 1619509968000,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1619509968000,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1619509968000,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": {
+    "time": 1619509968000,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1619509968000,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_skel.gltf": {
+    "time": 1619509968000,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1619509968000,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin": {
+    "time": 1619509968000,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\helmet.mtl": {
+    "time": 1619509968000,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1619509968000,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1619509968000,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1619509968000,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1619509968000,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1619509968000,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1619509968000,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1619509968000,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1619509968000,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1619509968000,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1619509968000,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1619509968000,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1619509968000,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1619509968000,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1619509968000,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1619509968000,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1619509968000,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1619509968000,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1619509968000,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1619509968000,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1619509968000,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res.meta": {
+    "time": 1635389406000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes.meta": {
+    "time": 1635389358000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts.meta": {
+    "time": 1635389386000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap.meta": {
+    "time": 1635415308000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals.meta": {
+    "time": 1635389376000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles.meta": {
+    "time": 1635389424000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\prefabs.meta": {
+    "time": 1635389380000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\skyCubes.meta": {
+    "time": 1635389448000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes.meta": {
+    "time": 1635389650000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\partical.scene.meta": {
+    "time": 1635471057768.989
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\render22-texture.rt.meta": {
+    "time": 1635494033619.0579
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\render-texture.rt.meta": {
+    "time": 1635416806000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\bagSHowModle.ts.meta": {
+    "time": 1635494096097.4773
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\lightMap.scene.meta": {
+    "time": 1635414990000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\collision.ts.meta": {
+    "time": 1635492001170.2524
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\hpSp.ts.meta": {
+    "time": 1635495001048.2415
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\playerControll.ts.meta": {
+    "time": 1635419350000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\ray.ts.meta": {
+    "time": 1635471246569.1394
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX.meta": {
+    "time": 1635415308000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\uiShow3d.ts.meta": {
+    "time": 1635416910000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\physical.scene.meta": {
+    "time": 1635405786000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\uiShow3d.scene.meta": {
+    "time": 1635416504000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\cubemat.mtl.meta": {
+    "time": 1635493377735.8357
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-001.mtl.meta": {
+    "time": 1635478837840.649
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-002.mtl.meta": {
+    "time": 1635479177650.239
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material.mtl.meta": {
+    "time": 1635416234000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\dry_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Dry_sky.tga.meta": {
+    "time": 1635487901089.3374
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Dry_sky_top.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Gas_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Dry_sky_side.tga.meta": {
+    "time": 1634183120000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Gas_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Gas_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky_top.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky_side.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\Ice_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\skyCubes\\cubemap.cubemap.meta": {
+    "time": 1635412232000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\skyCubes\\sky.cubemap.meta": {
+    "time": 1635492883403.6829
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky_bottom.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky_top.tga.meta": {
+    "time": 1635478863176.7888
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky_side.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes\\terrain22.terrain.meta": {
+    "time": 1635490920496.369
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\Skies\\lush_sky.tga.meta": {
+    "time": 1634183106000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations.meta": {
+    "time": 1619509974000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes\\terrain.terrain.meta": {
+    "time": 1635389658000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\terrainRes\\terrain-001.terrain.meta": {
+    "time": 1635480144807.9585
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\body.mtl.meta": {
+    "time": 1619509974000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\Cocos.prefab.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1635478940254.0603
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\helmet.mtl.meta": {
+    "time": 1619509968000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1634109524000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1634109526000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\bagShow3dModle.scene.meta": {
+    "time": 1635492370070.8337
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\bagShow3dModle.scene": {
+    "time": 1635501743063.99,
+    "uuid": "483de5fb-fa00-4444-a38f-5fddac612ae3",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\ray.scene.meta": {
+    "time": 1635494843728.6863
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\ray.scene": {
+    "time": 1635502211510.463,
+    "uuid": "d96eccdf-5a58-42c3-86b3-1916abf2e458",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\physicals.ts.meta": {
+    "time": 1635410344000
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\physicals.ts": {
+    "time": 1635411896000,
+    "uuid": "6a668038-a072-4c3f-91d4-40890b4896e1",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\output.meta": {
+    "time": 1635501202492.419
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\output\\lfx.o.meta": {
+    "time": 1635501202496.4082
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png.meta": {
+    "time": 1635501202503.3901
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\output": {
+    "time": 1635501202487.432,
+    "uuid": "2bc50aca-cf28-449f-bb3b-5b327bc69c2e",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\output\\lfx.o": {
+    "time": 1635501202452.525,
+    "uuid": "fc180e27-5880-4282-b002-476e2de81962",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\output\\LFX_Mesh_0000.png": {
+    "time": 1635501202452.525,
+    "uuid": "f94862b2-b166-447e-967a-1ace4ae010cd",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\lfx.log.meta": {
+    "time": 1635501202620.6553
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\tmp.meta": {
+    "time": 1635501202610.682
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i.meta": {
+    "time": 1635501202615.6687
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\tmp": {
+    "time": 1635501202606.6926,
+    "uuid": "0d746759-e03c-4de7-b855-20de512c1f19",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\tmp\\lfx.i": {
+    "time": 1635501200481.0286,
+    "uuid": "3b00120e-4a1a-4354-a0d8-d8e087d65c22",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\lfx.log": {
+    "time": 1635501202453.5237,
+    "uuid": "a7268bee-a23e-44a0-a80a-f48ecf3fab53",
+    "missing": false
+  }
+}

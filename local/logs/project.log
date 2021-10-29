@@ -1,0 +1,116 @@
+2021-10-29 17:55:10-log: [Package] menu@1.0.0 enable
+2021-10-29 17:55:10-log: [Package] profile@1.0.0 enable
+2021-10-29 17:55:10-log: [Package] messages@1.0.0 enable
+2021-10-29 17:55:10-log: [Package] program@1.0.0 enable
+2021-10-29 17:55:10-log: [Package] device@1.0.1 enable
+2021-10-29 17:55:10-log: [Package] ui-kit@1.0.1 enable
+2021-10-29 17:55:11-log: [Package] tester@1.0.0 enable
+2021-10-29 17:55:11-log: [Package] preferences@1.0.0 enable
+2021-10-29 17:55:11-log: Setup mods mgr.: 248.203ms
+2021-10-29 17:55:11-log: [Package] engine@1.0.5 enable
+2021-10-29 17:55:13-log: [Package] programming@1.0.0 enable
+2021-10-29 17:55:13-log: [Package] asset-db@1.0.0 enable
+2021-10-29 17:55:13-log: [Package] console@1.0.0 enable
+2021-10-29 17:55:13-log: [Package] scene@1.0.0 enable
+2021-10-29 17:55:14-log: [Package] server@1.0.0 enable
+2021-10-29 17:55:14-log: [Package] utils@1.0.0 enable
+2021-10-29 17:55:14-log: [Package] assets@1.0.0 enable
+2021-10-29 17:55:14-log: [Package] inspector@1.0.0 enable
+2021-10-29 17:55:14-log: [Package] hierarchy@1.0.0 enable
+2021-10-29 17:55:15-log: [Package] preview@1.0.1 enable
+2021-10-29 17:55:15-log: [Package] animator@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] builder@1.2.9 enable
+2021-10-29 17:55:16-log: [Package] node-library@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] shortcuts@1.0.1 enable
+2021-10-29 17:55:16-log: [Package] package-asset@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] reference-image@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] channel-upload-tools@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] alipay-mini-game@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] android@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] baidu-mini-game@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] bytedance-mini-game@1.0.1 enable
+2021-10-29 17:55:16-log: [Package] huawei-agc@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] ios@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] ios-app-clip@1.0.0 enable
+2021-10-29 17:55:16-log: [Package] mac@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] native@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] ohos@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] web-desktop@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] web-mobile@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] wechatgame@1.0.1 enable
+2021-10-29 17:55:17-log: [Package] windows@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] cocos-play@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] huawei-quick-game@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] link-sure@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] oppo-mini-game@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] qtt@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] vivo-mini-game@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] cocos-service@3.0.1 enable
+2021-10-29 17:55:17-log: [Package] importer@1.0.0 enable
+2021-10-29 17:55:17-log: [Package] extension@3.0.10 enable
+2021-10-29 17:55:18-log: [Im-plugin] Check im-plugin version.
+2021-10-29 17:55:18-log: [Package] im-plugin@3.0.7 enable
+2021-10-29 17:55:18-log: [Package] lightmap@1.0.3 enable
+2021-10-29 17:55:18-log: [Package] cocos-build-template@1.0.0 enable
+2021-10-29 17:55:18-log: [Im-plugin] No online info of im-plugin.
+2021-10-29 17:55:19-log: [Scene] begin init
+2021-10-29 17:55:19-log: [Scene] require engine end
+2021-10-29 17:55:19-log: [Scene] Serialize end
+2021-10-29 17:55:19-log: [Scene] configureStartup end
+2021-10-29 17:55:19-info: [Scene] WebGL2 device initialized.
+2021-10-29 17:55:19-log: [Scene] Cocos Creator v3.3.2
+2021-10-29 17:55:19-info: [Scene] Forward render pipeline initialized.
+2021-10-29 17:55:19-log: [Scene] openEngine end
+2021-10-29 17:55:19-log: [Scene] configureEngine end
+2021-10-29 17:55:20-error: [Scene] The Asset used by component "cc.Terrain" in scene "bagShow3dModle" is missing. Detailed information:
+Asset url: "db://assets/scenes/bagShow3dModle"
+Missing uuid: "d3661250-9fc7-4c38-800f-90ca4f71a68d@6c48a"
+
+2021-10-29 17:55:20-error: [Scene] The Asset used by component "cc.MeshRenderer" in scene "bagShow3dModle" is missing. Detailed information:
+Asset url: "db://assets/scenes/bagShow3dModle"
+Missing uuid: "d1dc6523-8811-4c3a-a89d-231e943bc898@6c48a"
+
+2021-10-29 17:55:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:55:40-error: [Scene] The Asset used in asset "material-001" is missing. Detailed information:
+Asset url: "db://assets/res/matierals/material-001"
+Missing uuid: "835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318"
+
+2021-10-29 17:55:54-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
+2021-10-29 17:55:54-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
+2021-10-29 17:55:56-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
+2021-10-29 17:55:56-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
+2021-10-29 17:55:59-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:56:12-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:56:27-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:56:52-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:57:04-error: [Scene] The Asset used by component "cc.Terrain" in scene "bagShow3dModle" is missing. Detailed information:
+Asset url: "db://assets/scenes/bagShow3dModle"
+Missing uuid: "d3661250-9fc7-4c38-800f-90ca4f71a68d@6c48a"
+
+2021-10-29 17:57:04-error: [Scene] The Asset used by component "cc.MeshRenderer" in scene "bagShow3dModle" is missing. Detailed information:
+Asset url: "db://assets/scenes/bagShow3dModle"
+Missing uuid: "d1dc6523-8811-4c3a-a89d-231e943bc898@6c48a"
+
+2021-10-29 17:59:24-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:59:37-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 17:59:40-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:00:20-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:00:49-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:01:01-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:01:16-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:01:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:01:43-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:01:52-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:02:08-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:02:23-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:03:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:03:45-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:05:07-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:06:34-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:07:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:09:56-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:10:11-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:10:11-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-10-29 18:10:44-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}

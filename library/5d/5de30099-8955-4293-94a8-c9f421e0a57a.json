@@ -1,0 +1,40 @@
+[
+  {
+    "__type__": "cc.TerrainAsset",
+    "_name": "terrain22",
+    "_objFlags": 0,
+    "_native": ".bin",
+    "_layerInfos": [
+      {
+        "__id__": 1
+      },
+      {
+        "__id__": 2
+      }
+    ]
+  },
+  {
+    "__type__": "cc.TerrainLayerInfo",
+    "slot": 0,
+    "tileSize": 1,
+    "detailMap": {
+      "__uuid__": "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    },
+    "normalMap": null,
+    "roughness": 1,
+    "metallic": 0
+  },
+  {
+    "__type__": "cc.TerrainLayerInfo",
+    "slot": 1,
+    "tileSize": 1,
+    "detailMap": {
+      "__uuid__": "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    },
+    "normalMap": null,
+    "roughness": 1,
+    "metallic": 0
+  }
+]

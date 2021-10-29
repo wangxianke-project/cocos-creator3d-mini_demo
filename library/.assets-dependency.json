@@ -1,0 +1,219 @@
+{
+  "uuid": {
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\matierals\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\matierals\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\material-002.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\matierals\\cubemat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\cubemat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-002.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\matierals\\material-003.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_01.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocosfinish_02.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_skel.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel.gltf": [
+      "D:\\cocos_project\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_01.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocosfinish_02.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_mesh_helmet.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_02.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_mesh.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocosfinish_01.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_run.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_skel.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\animations\\cocos_anim_jump.bin"
+    ]
+  }
+}
