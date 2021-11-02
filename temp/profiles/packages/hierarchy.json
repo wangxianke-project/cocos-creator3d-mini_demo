@@ -66,7 +66,10 @@
     "assetUuid": "d96eccdf-5a58-42c3-86b3-1916abf2e458",
     "animationUuid": "",
     "expandLevels": [
-      "0"
+      "0",
+      "0_3",
+      "0_3_2_0",
+      "0_3_2_0_0"
     ]
   }
 }

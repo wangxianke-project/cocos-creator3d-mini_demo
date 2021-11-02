@@ -1,5 +1,5 @@
 
-import { _decorator, Component, Node, ParticleSystem, systemEvent, SystemEvent, geometry, CameraComponent, PhysicsSystem, Vec3, Canvas, Camera, RigidBody, math, Vec2, quat } from 'cc';
+import { _decorator, Component, Node, ParticleSystem, systemEvent, SystemEvent, geometry, CameraComponent, PhysicsSystem, Vec3, Canvas, Camera, RigidBody, math, Vec2, quat, BatchingUtility } from 'cc';
 const { ccclass, property } = _decorator;
 
 /**
@@ -33,7 +33,7 @@ export class Ray extends Component {
     move = false;
     start () {
         // [3]
-        
+        // BatchingUtility.batchStaticModel()
         this.ray = new geometry.Ray();
         systemEvent.on(SystemEvent.EventType.TOUCH_END,e=>{
             this.node.getComponent(CameraComponent).screenPointToRay(e.getLocation().x,e.getLocation().y, this.ray);

@@ -65,6 +65,7 @@ System.register(["cc"], function (_export, _context) {
 
         start() {
           // [3]
+          // BatchingUtility.batchStaticModel()
           this.ray = new geometry.Ray();
           systemEvent.on(SystemEvent.EventType.TOUCH_END, e => {
             this.node.getComponent(CameraComponent).screenPointToRay(e.getLocation().x, e.getLocation().y, this.ray);

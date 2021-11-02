@@ -1,116 +1,164 @@
-2021-10-29 17:55:10-log: [Package] menu@1.0.0 enable
-2021-10-29 17:55:10-log: [Package] profile@1.0.0 enable
-2021-10-29 17:55:10-log: [Package] messages@1.0.0 enable
-2021-10-29 17:55:10-log: [Package] program@1.0.0 enable
-2021-10-29 17:55:10-log: [Package] device@1.0.1 enable
-2021-10-29 17:55:10-log: [Package] ui-kit@1.0.1 enable
-2021-10-29 17:55:11-log: [Package] tester@1.0.0 enable
-2021-10-29 17:55:11-log: [Package] preferences@1.0.0 enable
-2021-10-29 17:55:11-log: Setup mods mgr.: 248.203ms
-2021-10-29 17:55:11-log: [Package] engine@1.0.5 enable
-2021-10-29 17:55:13-log: [Package] programming@1.0.0 enable
-2021-10-29 17:55:13-log: [Package] asset-db@1.0.0 enable
-2021-10-29 17:55:13-log: [Package] console@1.0.0 enable
-2021-10-29 17:55:13-log: [Package] scene@1.0.0 enable
-2021-10-29 17:55:14-log: [Package] server@1.0.0 enable
-2021-10-29 17:55:14-log: [Package] utils@1.0.0 enable
-2021-10-29 17:55:14-log: [Package] assets@1.0.0 enable
-2021-10-29 17:55:14-log: [Package] inspector@1.0.0 enable
-2021-10-29 17:55:14-log: [Package] hierarchy@1.0.0 enable
-2021-10-29 17:55:15-log: [Package] preview@1.0.1 enable
-2021-10-29 17:55:15-log: [Package] animator@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] builder@1.2.9 enable
-2021-10-29 17:55:16-log: [Package] node-library@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] shortcuts@1.0.1 enable
-2021-10-29 17:55:16-log: [Package] package-asset@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] reference-image@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] channel-upload-tools@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] runtime-dev-tools@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] alipay-mini-game@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] android@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] baidu-mini-game@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] bytedance-mini-game@1.0.1 enable
-2021-10-29 17:55:16-log: [Package] huawei-agc@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] ios@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] ios-app-clip@1.0.0 enable
-2021-10-29 17:55:16-log: [Package] mac@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] native@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] ohos@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] web-desktop@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] web-mobile@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] wechatgame@1.0.1 enable
-2021-10-29 17:55:17-log: [Package] windows@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] xiaomi-quick-game@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] cocos-play@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] huawei-quick-game@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] link-sure@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] oppo-mini-game@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] qtt@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] vivo-mini-game@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] cocos-service@3.0.1 enable
-2021-10-29 17:55:17-log: [Package] importer@1.0.0 enable
-2021-10-29 17:55:17-log: [Package] extension@3.0.10 enable
-2021-10-29 17:55:18-log: [Im-plugin] Check im-plugin version.
-2021-10-29 17:55:18-log: [Package] im-plugin@3.0.7 enable
-2021-10-29 17:55:18-log: [Package] lightmap@1.0.3 enable
-2021-10-29 17:55:18-log: [Package] cocos-build-template@1.0.0 enable
-2021-10-29 17:55:18-log: [Im-plugin] No online info of im-plugin.
-2021-10-29 17:55:19-log: [Scene] begin init
-2021-10-29 17:55:19-log: [Scene] require engine end
-2021-10-29 17:55:19-log: [Scene] Serialize end
-2021-10-29 17:55:19-log: [Scene] configureStartup end
-2021-10-29 17:55:19-info: [Scene] WebGL2 device initialized.
-2021-10-29 17:55:19-log: [Scene] Cocos Creator v3.3.2
-2021-10-29 17:55:19-info: [Scene] Forward render pipeline initialized.
-2021-10-29 17:55:19-log: [Scene] openEngine end
-2021-10-29 17:55:19-log: [Scene] configureEngine end
-2021-10-29 17:55:20-error: [Scene] The Asset used by component "cc.Terrain" in scene "bagShow3dModle" is missing. Detailed information:
-Asset url: "db://assets/scenes/bagShow3dModle"
-Missing uuid: "d3661250-9fc7-4c38-800f-90ca4f71a68d@6c48a"
-
-2021-10-29 17:55:20-error: [Scene] The Asset used by component "cc.MeshRenderer" in scene "bagShow3dModle" is missing. Detailed information:
-Asset url: "db://assets/scenes/bagShow3dModle"
-Missing uuid: "d1dc6523-8811-4c3a-a89d-231e943bc898@6c48a"
-
-2021-10-29 17:55:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:55:40-error: [Scene] The Asset used in asset "material-001" is missing. Detailed information:
-Asset url: "db://assets/res/matierals/material-001"
-Missing uuid: "835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318"
-
-2021-10-29 17:55:54-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
-2021-10-29 17:55:54-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
-2021-10-29 17:55:56-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
-2021-10-29 17:55:56-error: [Scene] asset can't be load:835ebc3d-5dba-454b-85d4-7f7e62c57975@3c318
-2021-10-29 17:55:59-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:56:12-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:56:27-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:56:52-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:57:04-error: [Scene] The Asset used by component "cc.Terrain" in scene "bagShow3dModle" is missing. Detailed information:
-Asset url: "db://assets/scenes/bagShow3dModle"
-Missing uuid: "d3661250-9fc7-4c38-800f-90ca4f71a68d@6c48a"
-
-2021-10-29 17:57:04-error: [Scene] The Asset used by component "cc.MeshRenderer" in scene "bagShow3dModle" is missing. Detailed information:
-Asset url: "db://assets/scenes/bagShow3dModle"
-Missing uuid: "d1dc6523-8811-4c3a-a89d-231e943bc898@6c48a"
-
-2021-10-29 17:59:24-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:59:37-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 17:59:40-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:00:20-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:00:49-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:01:01-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:01:16-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:01:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:01:43-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:01:52-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:02:08-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:02:23-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:03:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:03:45-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:05:07-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:06:34-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:07:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:09:56-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:10:11-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:10:11-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-10-29 18:10:44-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:08:44-log: [Package] menu@1.0.0 enable
+2021-11-02 10:08:44-log: [Package] profile@1.0.0 enable
+2021-11-02 10:08:44-log: [Package] messages@1.0.0 enable
+2021-11-02 10:08:44-log: [Package] program@1.0.0 enable
+2021-11-02 10:08:44-log: [Package] device@1.0.1 enable
+2021-11-02 10:08:44-log: [Package] ui-kit@1.0.1 enable
+2021-11-02 10:08:44-log: [Package] tester@1.0.0 enable
+2021-11-02 10:08:44-log: [Package] preferences@1.0.0 enable
+2021-11-02 10:08:45-log: Setup mods mgr.: 249.428ms
+2021-11-02 10:08:45-log: [Package] engine@1.0.5 enable
+2021-11-02 10:08:47-log: [Package] programming@1.0.0 enable
+2021-11-02 10:08:47-log: [Package] asset-db@1.0.0 enable
+2021-11-02 10:08:47-log: [Package] console@1.0.0 enable
+2021-11-02 10:08:47-log: [Package] scene@1.0.0 enable
+2021-11-02 10:08:48-log: [Package] server@1.0.0 enable
+2021-11-02 10:08:48-log: [Package] utils@1.0.0 enable
+2021-11-02 10:08:48-log: [Package] assets@1.0.0 enable
+2021-11-02 10:08:48-log: [Package] inspector@1.0.0 enable
+2021-11-02 10:08:48-log: [Package] hierarchy@1.0.0 enable
+2021-11-02 10:08:49-log: [Package] preview@1.0.1 enable
+2021-11-02 10:08:49-log: [Package] animator@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] builder@1.2.9 enable
+2021-11-02 10:08:50-log: [Package] node-library@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] shortcuts@1.0.1 enable
+2021-11-02 10:08:50-log: [Package] package-asset@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] reference-image@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] channel-upload-tools@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] alipay-mini-game@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] android@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] baidu-mini-game@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] bytedance-mini-game@1.0.1 enable
+2021-11-02 10:08:50-log: [Package] huawei-agc@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] ios@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] ios-app-clip@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] mac@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] native@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] ohos@1.0.0 enable
+2021-11-02 10:08:50-log: [Package] web-desktop@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] web-mobile@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] wechatgame@1.0.1 enable
+2021-11-02 10:08:51-log: [Package] windows@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] cocos-play@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] huawei-quick-game@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] link-sure@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] oppo-mini-game@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] qtt@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] vivo-mini-game@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] cocos-service@3.0.1 enable
+2021-11-02 10:08:51-log: [Package] importer@1.0.0 enable
+2021-11-02 10:08:51-log: [Package] extension@3.0.10 enable
+2021-11-02 10:08:52-log: [Im-plugin] Check im-plugin version.
+2021-11-02 10:08:52-log: [Package] im-plugin@3.0.7 enable
+2021-11-02 10:08:52-log: [Package] lightmap@1.0.3 enable
+2021-11-02 10:08:52-log: [Package] cocos-build-template@1.0.0 enable
+2021-11-02 10:08:52-log: [Im-plugin] No online info of im-plugin.
+2021-11-02 10:08:53-log: [Scene] begin init
+2021-11-02 10:08:53-log: [Scene] require engine end
+2021-11-02 10:08:53-log: [Scene] Serialize end
+2021-11-02 10:08:53-log: [Scene] configureStartup end
+2021-11-02 10:08:53-info: [Scene] WebGL2 device initialized.
+2021-11-02 10:08:53-log: [Scene] Cocos Creator v3.3.2
+2021-11-02 10:08:53-info: [Scene] Forward render pipeline initialized.
+2021-11-02 10:08:53-log: [Scene] openEngine end
+2021-11-02 10:08:53-log: [Scene] configureEngine end
+2021-11-02 10:09:04-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:13:36-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:14:06-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:14:09-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:19:43-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:20:02-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:21:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:22:47-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:23:40-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:24:53-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:27:30-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:27:58-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:28:09-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:28:36-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:30:09-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:30:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:31:39-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:32:51-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:47:56-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:48:36-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:51:38-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 10:53:10-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:03:10-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:04:45-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:05:21-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:06:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:08:41-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:16:51-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 12:17:28-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:02:21-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:02:52-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:03:14-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:04:05-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:04:48-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:05:24-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:05:47-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:06:46-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:07:56-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:08:44-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:09:35-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:10:21-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:10:35-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:12:51-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:13:38-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:14:05-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:17:15-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:18:11-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:18:53-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:20:04-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:21:29-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:22:19-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:22:40-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:23:06-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:23:25-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:24:06-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:24:33-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:25:17-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:25:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:27:04-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:27:30-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:28:02-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:28:41-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:29:14-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:30:45-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:31:00-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 14:32:11-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:29:46-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:30:15-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:30:36-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:30:49-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:30:58-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:31:38-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:31:42-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:32:07-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:32:32-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:32:54-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:33:05-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:35:03-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:35:49-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:36:15-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:37:12-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:37:22-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:38:19-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:39:08-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:39:31-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:40:01-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:40:24-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:41:23-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:41:40-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:42:53-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:43:21-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:43:33-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:44:44-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:46:19-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:47:07-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:47:23-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:48:09-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-02 15:51:18-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}

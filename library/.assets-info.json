@@ -77,7 +77,7 @@
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\scenes\\Terrain.scene": {
     "time": 1635414066814.1194,
     "uuid": "328d6691-7850-4966-95b0-f995e45ab755",
-    "missing": false
+    "missing": true
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demoList\\NewProject\\assets\\res\\modles\\cocos.meta": {
     "time": 1634109523551.065
@@ -728,7 +728,7 @@
   "D:\\cocos_project\\NewProject1\\assets\\scenes\\Terrain.scene": {
     "time": 1635414068000,
     "uuid": "328d6691-7850-4966-95b0-f995e45ab755",
-    "missing": false
+    "missing": true
   },
   "D:\\cocos_project\\NewProject1\\assets\\scenes\\uiShow3d.scene": {
     "time": 1635418582000,
@@ -1384,7 +1384,7 @@
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\Terrain.scene": {
     "time": 1635414068000,
     "uuid": "328d6691-7850-4966-95b0-f995e45ab755",
-    "missing": false
+    "missing": true
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\NewProject1\\assets\\scenes\\uiShow3d.scene": {
     "time": 1635418582000,
@@ -2186,17 +2186,17 @@
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\hpSp.ts": {
-    "time": 1635498390460.496,
+    "time": 1635839476081.2314,
     "uuid": "5750d25c-69ac-4e64-8270-32a5951ba131",
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\playerControll.ts": {
-    "time": 1635438458000,
+    "time": 1635739047537.9673,
     "uuid": "a8104277-ddee-4145-8ea6-1ecf4c734c4a",
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\ray.ts": {
-    "time": 1635488960863.2725,
+    "time": 1635818629446.8232,
     "uuid": "c320a676-4843-41b5-be95-5f0447bcf7c8",
     "missing": false
   },
@@ -2341,7 +2341,7 @@
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\modles\\cocos\\body.mtl": {
-    "time": 1635497756689.7402,
+    "time": 1635738836364.175,
     "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
     "missing": false
   },
@@ -2787,7 +2787,7 @@
     "time": 1635494843728.6863
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\ray.scene": {
-    "time": 1635502211510.463,
+    "time": 1635838385690.3452,
     "uuid": "d96eccdf-5a58-42c3-86b3-1916abf2e458",
     "missing": false
   },

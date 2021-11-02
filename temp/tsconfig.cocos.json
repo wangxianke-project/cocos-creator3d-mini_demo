@@ -6,8 +6,8 @@
     "strict": true,
     "types": [
       "./temp/declarations/jsb",
-      "./temp/declarations/cc.env",
-      "./temp/declarations/cc"
+      "./temp/declarations/cc",
+      "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [

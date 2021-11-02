@@ -10,19 +10,19 @@
     "./mods/fs/0/assets/scripts/uiShow3d.js": {
       "cc": "./mods/cce/internal/x/cc.js"
     },
+    "./mods/fs/0/assets/scripts/bagSHowModle.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/physicals.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/scripts/collision.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
     "./mods/fs/0/assets/scripts/playerControll.js": {
       "cc": "./mods/cce/internal/x/cc.js"
     },
     "./mods/fs/0/assets/scripts/ray.js": {
-      "cc": "./mods/cce/internal/x/cc.js"
-    },
-    "./mods/fs/0/assets/scripts/bagSHowModle.js": {
-      "cc": "./mods/cce/internal/x/cc.js"
-    },
-    "./mods/fs/0/assets/scripts/hpSp.js": {
-      "cc": "./mods/cce/internal/x/cc.js"
-    },
-    "./mods/fs/0/assets/scripts/physicals.js": {
       "cc": "./mods/cce/internal/x/cc.js"
     },
     "./mods/cce/internal/x/cc.js": {
@@ -49,15 +49,15 @@
       "__unresolved_20": "cce:/internal/x/cc-fu/dragon-bones"
     },
     "./mods/cce/internal/x/prerequisite-imports.js": {
+      "__unresolved_1": "./mods/fs/0/assets/scripts/collision.js",
       "__unresolved_0": "./mods/fs/0/assets/scripts/bagSHowModle.js",
-      "__unresolved_2": "./mods/fs/0/assets/scripts/hpSp.js",
       "__unresolved_3": "./mods/fs/0/assets/scripts/physicals.js",
-      "__unresolved_5": "./mods/fs/0/assets/scripts/ray.js",
       "__unresolved_4": "./mods/fs/0/assets/scripts/playerControll.js",
       "__unresolved_6": "./mods/fs/0/assets/scripts/uiShow3d.js",
-      "__unresolved_1": "./mods/fs/0/assets/scripts/collision.js"
+      "__unresolved_5": "./mods/fs/0/assets/scripts/ray.js",
+      "__unresolved_2": "./mods/fs/0/assets/scripts/hpSp.js"
     },
-    "./mods/fs/0/assets/scripts/collision.js": {
+    "./mods/fs/0/assets/scripts/hpSp.js": {
       "cc": "./mods/cce/internal/x/cc.js"
     }
   }

@@ -1,7 +1,7 @@
 System.register(["cc"], function (_export, _context) {
   "use strict";
 
-  var _cclegacy, _decorator, Component, Node, Vec3, CameraComponent, geometry, systemEvent, SystemEvent, PhysicsSystem, ParticleSystem, _dec, _dec2, _dec3, _dec4, _dec5, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _temp, _crd, ccclass, property, HpSp;
+  var _cclegacy, _decorator, Component, Node, Vec3, CameraComponent, geometry, systemEvent, SystemEvent, PhysicsSystem, ParticleSystem, Quat, tween, SkeletalAnimation, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _temp, _crd, ccclass, property, HpSp;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -24,6 +24,9 @@ System.register(["cc"], function (_export, _context) {
       SystemEvent = _cc.SystemEvent;
       PhysicsSystem = _cc.PhysicsSystem;
       ParticleSystem = _cc.ParticleSystem;
+      Quat = _cc.Quat;
+      tween = _cc.tween;
+      SkeletalAnimation = _cc.SkeletalAnimation;
     }],
     execute: function () {
       _crd = true;
@@ -46,7 +49,7 @@ System.register(["cc"], function (_export, _context) {
        *
        */
 
-      _export("HpSp", HpSp = (_dec = ccclass('HpSp'), _dec2 = property(Node), _dec3 = property(Node), _dec4 = property(Node), _dec5 = property(ParticleSystem), _dec(_class = (_class2 = (_temp = class HpSp extends Component {
+      _export("HpSp", HpSp = (_dec = ccclass('HpSp'), _dec2 = property(Node), _dec3 = property(Node), _dec4 = property(Node), _dec5 = property(ParticleSystem), _dec6 = property(Node), _dec(_class = (_class2 = (_temp = class HpSp extends Component {
         constructor(...args) {
           super(...args);
 
@@ -58,11 +61,16 @@ System.register(["cc"], function (_export, _context) {
 
           _initializerDefineProperty(this, "par", _descriptor4, this);
 
+          _initializerDefineProperty(this, "cube", _descriptor5, this);
+
+          _defineProperty(this, "move", false);
+
           _defineProperty(this, "ray", null);
         }
 
         start() {
           // [3]
+          this.node.getComponent(SkeletalAnimation).play("cocos_anim_idle");
           this.ray = new geometry.Ray();
           systemEvent.on(SystemEvent.EventType.TOUCH_END, this.touchEnd, this);
         }
@@ -77,17 +85,50 @@ System.register(["cc"], function (_export, _context) {
 
             for (let i = 0; i < arr.length; i++) {
               if (arr[i].collider.node.name == "Terrain") {
-                console.log("碰撞到地面");
+                // console.log("碰撞到地面",arr[i].hitPoint);
                 this.par.play();
-                this.par.node.worldPosition = arr[i].hitPoint;
-                this.node.worldPosition = arr[i].hitPoint;
+                this.par.node.worldPosition = arr[i].hitPoint; // 粒子位置直接设置过去
+
+                const qut = new Quat();
+                const qut1 = new Quat();
+                const qutStart = this.node.rotation;
+                const dir = arr[i].hitPoint.subtract(this.node.worldPosition); // 求出到目标点的方向向量
+
+                Quat.fromViewUp(qut, dir.normalize(), new Vec3(0, 1, 0)); // 计算出目标点的四元数
+                // tween实现旋转
+
+                const tw = tween(this.node);
+                tw.to(0.2, {}, {
+                  onUpdate: (target, ratio) => {
+                    // ratio : 0~1
+                    // 这里使用球面插值，旋转时不会出现变形
+                    qut1.set(qutStart).slerp(qut, ratio);
+                    this.node.setRotation(qut1);
+                  }
+                }).call(() => {
+                  this.move = true;
+                  this.node.getComponent(SkeletalAnimation).play("cocos_anim_run");
+                });
+                tw.start();
               }
             }
           }
         }
 
         update(deltaTime) {
-          // 血条跟随
+          // 开始移动
+          if (this.move) {
+            this.node.translate(new Vec3(0, 0, 1).multiplyScalar(0.1)); // 旋转后 想对于自己本地坐标想自己的前方移动
+
+            let dis = Vec3.distance(this.node.worldPosition, this.par.node.worldPosition);
+
+            if (dis <= 0.2) {
+              this.move = false;
+              this.node.getComponent(SkeletalAnimation).play("cocos_anim_idle");
+            }
+          } // 血条跟随
+
+
           let ve = new Vec3(0, 0, 0);
           this.uiHp.parent.getWorldPosition(ve);
           let ca = this.camerr.getComponent(CameraComponent);
@@ -98,7 +139,9 @@ System.register(["cc"], function (_export, _context) {
 
           if (dis > 10) {
             this.uiHp.scale = new Vec3(0.02 * (100 / (dis - 10)), 0.02 * (100 / (dis - 10)), 1);
-          }
+          } //   let qu = math.quat()
+          //   this.cube.rotate(math.Quat.rotateAround( math.quat(), math.quat(), this.cube.position,0.001))
+
         }
 
       }, _temp), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "uiHp", [_dec2], {
@@ -123,6 +166,13 @@ System.register(["cc"], function (_export, _context) {
           return null;
         }
       }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "par", [_dec5], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "cube", [_dec6], {
         configurable: true,
         enumerable: true,
         writable: true,

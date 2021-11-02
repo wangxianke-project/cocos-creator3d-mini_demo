@@ -24,9 +24,11 @@ export class PlayerControll extends Component {
     hp3D:Node = null;
     @property(Node)
     uiHp:Node = null;
+
     move = false
     start() {
      
+        
         systemEvent.on(SystemEvent.EventType.KEY_DOWN, this.onKeyDown, this);
         systemEvent.on(SystemEvent.EventType.KEY_UP, this.onKeyup, this);
         // [3]
@@ -98,6 +100,8 @@ export class PlayerControll extends Component {
         {
             this.uiHp.scale =  new Vec3((20-dis)*0.01,(20-dis)*0.01,(50-dis)*0.01) ;
         }
+
+
     }
 }
 
