@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 7938.531100000255,
+    "mTimestamp": 35366.130900000004,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -389,7 +389,7 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 20559001.939600002,
+    "mTimestamp": 4088945.7948,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
@@ -1016,7 +1016,7 @@
     ]
   },
   "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/hpSp.ts": {
-    "mTimestamp": 1635839476081.2314,
+    "mTimestamp": 1635906135413.6057,
     "chunkId": "assets/scripts/hpSp.js",
     "imports": [
       {

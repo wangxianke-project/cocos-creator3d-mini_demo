@@ -63,13 +63,22 @@ System.register(["cc"], function (_export, _context) {
 
           _initializerDefineProperty(this, "cube", _descriptor5, this);
 
+          _defineProperty(this, "useLerpMove", true);
+
           _defineProperty(this, "move", false);
+
+          _defineProperty(this, "lerpFinishPos", null);
+
+          _defineProperty(this, "finishPos", new Vec3(0, 0, 0));
+
+          _defineProperty(this, "moveSpeed", 20);
 
           _defineProperty(this, "ray", null);
         }
 
         start() {
           // [3]
+          // 先播放idle动画
           this.node.getComponent(SkeletalAnimation).play("cocos_anim_idle");
           this.ray = new geometry.Ray();
           systemEvent.on(SystemEvent.EventType.TOUCH_END, this.touchEnd, this);
@@ -89,6 +98,7 @@ System.register(["cc"], function (_export, _context) {
                 this.par.play();
                 this.par.node.worldPosition = arr[i].hitPoint; // 粒子位置直接设置过去
 
+                this.finishPos = arr[i].hitPoint;
                 const qut = new Quat();
                 const qut1 = new Quat();
                 const qutStart = this.node.rotation;
@@ -106,7 +116,9 @@ System.register(["cc"], function (_export, _context) {
                     this.node.setRotation(qut1);
                   }
                 }).call(() => {
-                  this.move = true;
+                  // 通过translate移动
+                  this.move = true; // 播放跑的动画
+
                   this.node.getComponent(SkeletalAnimation).play("cocos_anim_run");
                 });
                 tw.start();
@@ -118,9 +130,33 @@ System.register(["cc"], function (_export, _context) {
         update(deltaTime) {
           // 开始移动
           if (this.move) {
-            this.node.translate(new Vec3(0, 0, 1).multiplyScalar(0.1)); // 旋转后 想对于自己本地坐标想自己的前方移动
+            if (this.useLerpMove) {
+              // 通知插值移动
+              // 1. 插值移动到目标点，更有真实性
+              if (!this.lerpFinishPos) {
+                let start = new Vec3(this.node.position.x, this.node.position.y, this.node.position.z);
+                let end = new Vec3(this.par.node.worldPosition.x, this.node.position.y, this.par.node.worldPosition.z);
+                let ve = new Vec3(0, 0, 0); // 插值后终点
 
-            let dis = Vec3.distance(this.node.worldPosition, this.par.node.worldPosition);
+                Vec3.lerp(ve, start, end, 0.5); // 每次终点取起点和终点的中间值
+
+                this.lerpFinishPos = ve;
+              } else {
+                // 判断是否移动到插值终点
+                this.node.translate(new Vec3(0, 0, 1).multiplyScalar(deltaTime * this.moveSpeed));
+                let dis = Vec3.distance(this.node.position, this.lerpFinishPos);
+
+                if (dis <= 0.2) {
+                  this.lerpFinishPos = null; // 清空下次继续找中间点
+                }
+              }
+            } else {
+              // 2. 通过translate移动到目标点,效果不够真实圆滑
+              this.node.translate(new Vec3(0, 0, 1).multiplyScalar(deltaTime * this.moveSpeed)); // 旋转后 想对于自己本地坐标想自己的前方移动
+            } // 判断距离终点距离
+
+
+            let dis = Vec3.distance(this.node.position, this.par.node.position);
 
             if (dis <= 0.2) {
               this.move = false;
@@ -138,7 +174,7 @@ System.register(["cc"], function (_export, _context) {
           let dis = Vec3.distance(this.node.worldPosition, this.camerr.worldPosition);
 
           if (dis > 10) {
-            this.uiHp.scale = new Vec3(0.02 * (100 / (dis - 10)), 0.02 * (100 / (dis - 10)), 1);
+            this.uiHp.scale = new Vec3(0.06 * (100 / (dis - 10)), 0.06 * (100 / (dis - 10)), 1);
           } //   let qu = math.quat()
           //   this.cube.rotate(math.Quat.rotateAround( math.quat(), math.quat(), this.cube.position,0.001))
 
