@@ -166,24 +166,6 @@
     "isEntry": true,
     "exposeAs": "cce:/internal/x/cc"
   },
-  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
-    "imports": {
-      "__unresolved_2": "assets/scripts/bagSHowModle.js",
-      "__unresolved_3": "assets/scripts/collision.js",
-      "__unresolved_4": "assets/scripts/cubeRotate.js",
-      "__unresolved_5": "assets/scripts/hpSp.js",
-      "__unresolved_8": "assets/scripts/ray.js",
-      "__unresolved_7": "assets/scripts/playerControll.js",
-      "__unresolved_9": "assets/scripts/uiShow3d.js",
-      "__unresolved_6": "assets/scripts/physicals.js",
-      "__unresolved_1": "assets/scripts/adaptation/uiMain.js",
-      "__unresolved_0": "assets/scripts/adaptation/playerCtrl.js"
-    },
-    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
-    "mTimestamp": 1637226394170,
-    "isEntry": true,
-    "exposeAs": "cce:/internal/x/prerequisite-imports"
-  },
   "assets/scripts/adaptation/uiMain.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
@@ -191,11 +173,29 @@
     "physicalLocation": "fs/0/assets/scripts/adaptation/uiMain.js",
     "mTimestamp": 1637226394221
   },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_1": "assets/scripts/adaptation/uiMain.js",
+      "__unresolved_2": "assets/scripts/bagSHowModle.js",
+      "__unresolved_3": "assets/scripts/collision.js",
+      "__unresolved_5": "assets/scripts/hpSp.js",
+      "__unresolved_4": "assets/scripts/cubeRotate.js",
+      "__unresolved_6": "assets/scripts/physicals.js",
+      "__unresolved_7": "assets/scripts/playerControll.js",
+      "__unresolved_8": "assets/scripts/ray.js",
+      "__unresolved_9": "assets/scripts/uiShow3d.js",
+      "__unresolved_0": "assets/scripts/adaptation/playerCtrl.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1637229076264,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
   "assets/scripts/adaptation/playerCtrl.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
     "physicalLocation": "fs/0/assets/scripts/adaptation/playerCtrl.js",
-    "mTimestamp": 1637226394274
+    "mTimestamp": 1637229076339
   }
 }

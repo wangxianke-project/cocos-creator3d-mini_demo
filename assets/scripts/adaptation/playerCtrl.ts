@@ -37,8 +37,8 @@ export class PlayerCtrl extends Component {
         this.show3d.spriteFrame.texture = renderTex;
     }
 
-    lateUpdate()
-    {
+    lateUpdate() {
+        // 使用 worldToScreen 实现血条跟随
         this.player3dHps.forEach((item, i) => {
             // 血条
             let ve1 = new Vec3(0, 0, 0)
@@ -52,6 +52,16 @@ export class PlayerCtrl extends Component {
             let offsetHeight = !sys.isMobile?0: ((view.getVisibleSize().width*design.height/design.width)-view.getVisibleSize().height);// 计算出高度比实际分辨率的差距，
             this.uiHps[i].worldPosition = ve1.add(new Vec3(canvasWidget.left,-offsetHeight/2,0));;
         })
+
+
+        // // 使用convertToUINode 实现血条跟随
+        // this.player3dHps.forEach((item, i) => {
+        //     // 血条
+        //     let ve1 = new Vec3(0, 0, 0)
+        //     this.cam.convertToUINode(new Vec3(item.worldPosition), this.uiHps[i].parent, ve1);
+        //     this.uiHps[i].setPosition(ve1)
+        // })
+
     }
     // update (deltaTime: number) {
     //     // [4]

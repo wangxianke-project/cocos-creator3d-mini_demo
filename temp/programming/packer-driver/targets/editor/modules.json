@@ -389,7 +389,7 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 4382482.08950001,
+    "mTimestamp": 7064608.758400023,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
@@ -1385,7 +1385,7 @@
     ]
   },
   "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/playerCtrl.ts": {
-    "mTimestamp": 1637226251169.185,
+    "mTimestamp": 1637229073893.6335,
     "chunkId": "assets/scripts/adaptation/playerCtrl.js",
     "imports": [
       {

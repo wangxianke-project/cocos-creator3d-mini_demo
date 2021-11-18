@@ -89,6 +89,7 @@ System.register(["cc"], function (_export, _context) {
         _proto.lateUpdate = function lateUpdate() {
           var _this2 = this;
 
+          // 使用 worldToScreen 实现血条跟随
           this.player3dHps.forEach(function (item, i) {
             // 血条
             var ve1 = new Vec3(0, 0, 0);
@@ -98,13 +99,20 @@ System.register(["cc"], function (_export, _context) {
             var design = view.getDesignResolutionSize(); // 这里就是计算一下  浏览器端屏幕是横屏的，实际我们canvas区域是中间手机屏，而且血条还不能加widget固定死，所有在pc端
             // 转出来的坐标是实际屏幕算的，不是中间手机位置的，我们要计算到中间手机位置的区域，计算出的位置+屏幕左侧到手机屏的左侧的距离，就是中间手机的显示区域
             // 这里计算offsetHeight，是因为手机端是适配宽度，不同机型的实际高度不一，可能血条高于正常值或者低于，所以在这里要-(根据设计分辨率求出的高度-实际屏幕的高度)/2
+            // 对于offsetHeight不理解，可以尝试在手机浏览器运行一下就明白了，和pc显示的差别
 
             var canvasWidget = find("Canvas").getComponent(Widget);
             var offsetHeight = !sys.isMobile ? 0 : view.getVisibleSize().width * design.height / design.width - view.getVisibleSize().height; // 计算出高度比实际分辨率的差距，
 
             _this2.uiHps[i].worldPosition = ve1.add(new Vec3(canvasWidget.left, -offsetHeight / 2, 0));
             ;
-          });
+          }); // // 使用convertToUINode 实现血条跟随
+          // this.player3dHps.forEach((item, i) => {
+          //     // 血条
+          //     let ve1 = new Vec3(0, 0, 0)
+          //     this.cam.convertToUINode(new Vec3(item.worldPosition), this.uiHps[i].parent, ve1);
+          //     this.uiHps[i].setPosition(ve1)
+          // })
         } // update (deltaTime: number) {
         //     // [4]
         // }

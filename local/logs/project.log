@@ -76,3 +76,5 @@
 2021-11-18 16:33:41-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
 2021-11-18 16:49:27-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
 2021-11-18 16:54:13-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 17:43:44-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 17:51:18-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
