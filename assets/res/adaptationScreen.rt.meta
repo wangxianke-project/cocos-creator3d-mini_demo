@@ -1,0 +1,30 @@
+{
+  "ver": "1.1.1",
+  "importer": "render-texture",
+  "imported": true,
+  "uuid": "3b6fd447-0eb1-4f0a-87a5-5c11080e9aa8",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "f9941": {
+      "importer": "rt-sprite-frame",
+      "uuid": "3b6fd447-0eb1-4f0a-87a5-5c11080e9aa8@f9941",
+      "displayName": "adaptationScreen",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "imageUuidOrDatabaseUri": "3b6fd447-0eb1-4f0a-87a5-5c11080e9aa8"
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "redirect": "3b6fd447-0eb1-4f0a-87a5-5c11080e9aa8@f9941"
+  }
+}

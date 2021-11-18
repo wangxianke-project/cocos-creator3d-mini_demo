@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 35366.130900000004,
+    "mTimestamp": 7984.310500025749,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -389,11 +389,11 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 4088945.7948,
+    "mTimestamp": 4382482.08950001,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
-        "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/bagSHowModle.ts",
+        "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/playerCtrl.ts",
         "rewritten": "__unresolved_0",
         "loc": {
           "start": {
@@ -402,91 +402,133 @@
           },
           "end": {
             "line": 5,
-            "column": 135
+            "column": 144
+          }
+        }
+      },
+      {
+        "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/uiMain.ts",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 160
+          },
+          "end": {
+            "line": 5,
+            "column": 265
+          }
+        }
+      },
+      {
+        "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/bagSHowModle.ts",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 281
+          },
+          "end": {
+            "line": 5,
+            "column": 381
           }
         }
       },
       {
         "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/collision.ts",
-        "rewritten": "__unresolved_1",
+        "rewritten": "__unresolved_3",
         "loc": {
           "start": {
             "line": 5,
-            "column": 151
+            "column": 397
           },
           "end": {
             "line": 5,
-            "column": 248
+            "column": 494
+          }
+        }
+      },
+      {
+        "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/cubeRotate.ts",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 510
+          },
+          "end": {
+            "line": 5,
+            "column": 608
           }
         }
       },
       {
         "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/hpSp.ts",
-        "rewritten": "__unresolved_2",
+        "rewritten": "__unresolved_5",
         "loc": {
           "start": {
             "line": 5,
-            "column": 264
+            "column": 624
           },
           "end": {
             "line": 5,
-            "column": 356
+            "column": 716
           }
         }
       },
       {
         "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/physicals.ts",
-        "rewritten": "__unresolved_3",
+        "rewritten": "__unresolved_6",
         "loc": {
           "start": {
             "line": 5,
-            "column": 372
+            "column": 732
           },
           "end": {
             "line": 5,
-            "column": 469
+            "column": 829
           }
         }
       },
       {
         "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/playerControll.ts",
-        "rewritten": "__unresolved_4",
+        "rewritten": "__unresolved_7",
         "loc": {
           "start": {
             "line": 5,
-            "column": 485
+            "column": 845
           },
           "end": {
             "line": 5,
-            "column": 587
+            "column": 947
           }
         }
       },
       {
         "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/ray.ts",
-        "rewritten": "__unresolved_5",
+        "rewritten": "__unresolved_8",
         "loc": {
           "start": {
             "line": 5,
-            "column": 603
+            "column": 963
           },
           "end": {
             "line": 5,
-            "column": 694
+            "column": 1054
           }
         }
       },
       {
         "value": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/uiShow3d.ts",
-        "rewritten": "__unresolved_6",
+        "rewritten": "__unresolved_9",
         "loc": {
           "start": {
             "line": 5,
-            "column": 710
+            "column": 1070
           },
           "end": {
             "line": 5,
-            "column": 806
+            "column": 1166
           }
         }
       }
@@ -497,11 +539,23 @@
     "resolvedImports": [
       {
         "isExternal": false,
+        "url": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/playerCtrl.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/uiMain.ts"
+      },
+      {
+        "isExternal": false,
         "url": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/bagSHowModle.ts"
       },
       {
         "isExternal": false,
         "url": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/collision.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/cubeRotate.ts"
       },
       {
         "isExternal": false,
@@ -981,7 +1035,7 @@
     ]
   },
   "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/bagSHowModle.ts": {
-    "mTimestamp": 1635497458649.9707,
+    "mTimestamp": 1636708568213.2478,
     "chunkId": "assets/scripts/bagSHowModle.js",
     "imports": [
       {
@@ -1016,7 +1070,7 @@
     ]
   },
   "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/hpSp.ts": {
-    "mTimestamp": 1635906135413.6057,
+    "mTimestamp": 1635911519429.6082,
     "chunkId": "assets/scripts/hpSp.js",
     "imports": [
       {
@@ -1242,6 +1296,111 @@
           "end": {
             "line": 2,
             "column": 118
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/cubeRotate.ts": {
+    "mTimestamp": 1635909047727.8152,
+    "chunkId": "assets/scripts/cubeRotate.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 98
+          },
+          "end": {
+            "line": 2,
+            "column": 102
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/uiMain.ts": {
+    "mTimestamp": 1637225773514.032,
+    "chunkId": "assets/scripts/adaptation/uiMain.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 81
+          },
+          "end": {
+            "line": 2,
+            "column": 85
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///D:/CocosProject/testDemo/cocos3d20211013/20211014/demolist2/assets/scripts/adaptation/playerCtrl.ts": {
+    "mTimestamp": 1637226251169.185,
+    "chunkId": "assets/scripts/adaptation/playerCtrl.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 115
+          },
+          "end": {
+            "line": 2,
+            "column": 119
           }
         }
       }

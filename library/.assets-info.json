@@ -2096,17 +2096,17 @@
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res": {
-    "time": 1635494033607.0889,
+    "time": 1637221017946.1172,
     "uuid": "64454e8a-314f-433d-a41c-75a16fac73f4",
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes": {
-    "time": 1635502205974.3335,
+    "time": 1637220490102.2468,
     "uuid": "9999db0b-946d-4da0-8480-0228b7c6b4b1",
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts": {
-    "time": 1635499890191.7512,
+    "time": 1637221207899.9531,
     "uuid": "f7977fbc-9fbc-4416-8a2a-dd3874e812cd",
     "missing": false
   },
@@ -2176,7 +2176,7 @@
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\bagSHowModle.ts": {
-    "time": 1635497458649.9707,
+    "time": 1636708568213.2478,
     "uuid": "b1bddc86-60b1-4473-80ee-f5c863337477",
     "missing": false
   },
@@ -2186,7 +2186,7 @@
     "missing": false
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\hpSp.ts": {
-    "time": 1635906135413.6057,
+    "time": 1635911519429.6082,
     "uuid": "5750d25c-69ac-4e64-8270-32a5951ba131",
     "missing": false
   },
@@ -2787,7 +2787,7 @@
     "time": 1635494843728.6863
   },
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\ray.scene": {
-    "time": 1635838385690.3452,
+    "time": 1635907892675.4756,
     "uuid": "d96eccdf-5a58-42c3-86b3-1916abf2e458",
     "missing": false
   },
@@ -2845,6 +2845,62 @@
   "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\lightMap\\LightFX\\lfx.log": {
     "time": 1635501202453.5237,
     "uuid": "a7268bee-a23e-44a0-a80a-f48ecf3fab53",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\cubeRotate.ts.meta": {
+    "time": 1635907026393.5366
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\cubeRotate.ts": {
+    "time": 1635909047727.8152,
+    "uuid": "792ecb67-f050-452b-b54f-e72a69d31641",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\cubeRotate.scene.meta": {
+    "time": 1635907834572.5164
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\cubeRotate.scene": {
+    "time": 1635909138933.3887,
+    "uuid": "c51295d7-a919-49d8-baf0-6b618cc6ed24",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\adaptationScreen.scene.meta": {
+    "time": 1637220468284.473
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scenes\\adaptationScreen.scene": {
+    "time": 1637224419821.2122,
+    "uuid": "c777f59c-7464-49a0-98f4-b7f4e50cefcf",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\adaptationScreen.rt.meta": {
+    "time": 1637221017954.095
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\res\\adaptationScreen.rt": {
+    "time": 1637221186479.26,
+    "uuid": "3b6fd447-0eb1-4f0a-87a5-5c11080e9aa8",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\adaptation.meta": {
+    "time": 1637221207903.9424
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\adaptation": {
+    "time": 1637221347950.2756,
+    "uuid": "e7fcaa7e-08a0-4818-8548-6cecda4ae7cf",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\adaptation\\uiMain.ts.meta": {
+    "time": 1637221285410.6174
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\adaptation\\uiMain.ts": {
+    "time": 1637225773514.032,
+    "uuid": "12fd9581-c27d-4021-b976-197560b79524",
+    "missing": false
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\adaptation\\playerCtrl.ts.meta": {
+    "time": 1637221347955.262
+  },
+  "D:\\CocosProject\\testDemo\\cocos3d20211013\\20211014\\demolist2\\assets\\scripts\\adaptation\\playerCtrl.ts": {
+    "time": 1637226251169.185,
+    "uuid": "f17cbcc4-c5ef-4aed-8f14-f8180dfddd32",
     "missing": false
   }
 }

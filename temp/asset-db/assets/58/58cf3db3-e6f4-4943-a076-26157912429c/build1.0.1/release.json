@@ -1,0 +1,109 @@
+[
+    1,
+    [
+        "5fTdeYKuZLv4S0UEu2zOrt@6c48a",
+        "3a+b4vk9JBoLe3PMAwVLNK@6c48a",
+        "02bEoV4H1AU4ben5/jAYjl@6c48a",
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "mainTexture",
+        "normalMap",
+        "emissiveMap",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            1,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {},
+                {},
+                {}
+            ],
+            [
+                {
+                    "USE_LIGHTMAP": true,
+                    "USE_NORMAL_MAP": true,
+                    "USE_ALBEDO_MAP": true,
+                    "USE_EMISSIVE_MAP": true
+                },
+                {},
+                {},
+                {}
+            ],
+            [
+                [
+                    [
+                        {},
+                        "mainTexture",
+                        6,
+                        0,
+                        "normalMap",
+                        6,
+                        1,
+                        "emissiveMap",
+                        6,
+                        2
+                    ],
+                    {},
+                    {},
+                    {}
+                ],
+                11,
+                0,
+                0,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0,
+        0,
+        0
+    ],
+    [
+        0,
+        1,
+        2,
+        3
+    ],
+    [
+        0,
+        1,
+        2,
+        3
+    ]
+]

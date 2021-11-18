@@ -1,0 +1,2024 @@
+2021-11-18 16:08-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:08-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:08-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:08-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:08-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:08-debug: Process: heapTotal 179.13MB heapUsed 166.00MB rss 307.44MB
+2021-11-18 16:08-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:08-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:08-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:08-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:08-debug: Process: heapTotal 179.13MB heapUsed 166.24MB rss 307.58MB
+2021-11-18 16:08-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:08-debug: Query all assets info in project
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:08-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:08-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:08-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:08-debug:   Number of all scripts: 10
+2021-11-18 16:08-debug:   Number of other assets: 414
+2021-11-18 16:08-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:08-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:08-debug: Process: heapTotal 179.39MB heapUsed 167.41MB rss 308.11MB
+2021-11-18 16:08-debug:   Number of all scenes: 8
+2021-11-18 16:08-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:08-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:08-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:08-debug: Process: heapTotal 179.39MB heapUsed 167.45MB rss 308.09MB
+2021-11-18 16:08-debug: reload all scripts.
+2021-11-18 16:08-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:08-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:08-debug: [[Executor]] Register Collision
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register UiMain
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register HpSp
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:08-debug: [[Executor]] Register Physicals
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:08-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:08-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:08-debug: 查询 asset bundle start9%
+2021-11-18 16:08-log: // ---- 查询 asset bundle ----
+2021-11-18 16:08-debug: Process: heapTotal 187.63MB heapUsed 167.33MB rss 309.13MB
+2021-11-18 16:08-debug: [[Executor]] Register Ray
+2021-11-18 16:08-debug: 查询 asset bundle √10%
+2021-11-18 16:08-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:08-debug: Process: heapTotal 187.63MB heapUsed 167.40MB rss 309.21MB
+2021-11-18 16:08-debug: Number of scenes: 1
+2021-11-18 16:08-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:08-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:08-debug: Number of assets: 33
+2021-11-18 16:08-debug: Number of asset bundle: 1
+2021-11-18 16:08-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:08-debug: Process: heapTotal 173.12MB heapUsed 166.61MB rss 305.29MB
+2021-11-18 16:08-debug: sort script group...
+2021-11-18 16:08-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:08-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:08-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:08-debug: Process: heapTotal 173.12MB heapUsed 166.65MB rss 304.88MB
+2021-11-18 16:08-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:08-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:08-debug: Number of image-compress task: 0
+2021-11-18 16:08-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:08-debug: Process: heapTotal 175.88MB heapUsed 165.88MB rss 304.96MB
+2021-11-18 16:08-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:08-debug: Number of json group: 1
+2021-11-18 16:08-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:08-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:08-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:08-debug: Process: heapTotal 175.88MB heapUsed 165.93MB rss 305.02MB
+2021-11-18 16:08-debug:  start16%
+2021-11-18 16:08-log: // ----  ----
+2021-11-18 16:08-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:08-debug:  √18%
+2021-11-18 16:08-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:08-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:08-debug: Process: heapTotal 175.88MB heapUsed 165.98MB rss 305.04MB
+2021-11-18 16:08-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:08-debug:  start20%
+2021-11-18 16:08-log: // ----  ----
+2021-11-18 16:08-debug: Process: heapTotal 175.88MB heapUsed 166.01MB rss 305.08MB
+2021-11-18 16:08-debug: Process: heapTotal 175.88MB heapUsed 165.95MB rss 305.02MB
+2021-11-18 16:08-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:08-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:08-debug: 打包脚本20%
+2021-11-18 16:08-debug: Process: heapTotal 195.05MB heapUsed 184.49MB rss 327.29MB
+2021-11-18 16:08-debug: Copy externalScripts success!
+2021-11-18 16:08-debug: 打包脚本√20%
+2021-11-18 16:08-debug: Process: heapTotal 215.28MB heapUsed 194.65MB rss 344.51MB
+2021-11-18 16:08-debug: 构建引擎20%
+2021-11-18 16:08-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:08-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:08-debug: 构建引擎√20%
+2021-11-18 16:08-debug: 构建自动图集 start27%
+2021-11-18 16:08-log: // ---- 构建自动图集 ----
+2021-11-18 16:08-debug:  √27%
+2021-11-18 16:08-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:08-debug: Process: heapTotal 215.28MB heapUsed 194.47MB rss 345.59MB
+2021-11-18 16:08-debug: 构建自动图集 √33%
+2021-11-18 16:08-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:08-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:08-debug: Process: heapTotal 215.28MB heapUsed 194.50MB rss 345.59MB
+2021-11-18 16:08-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:08-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:08-debug: Process: heapTotal 215.28MB heapUsed 194.52MB rss 345.79MB
+2021-11-18 16:08-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:08-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:08-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:08-debug: Process: heapTotal 215.28MB heapUsed 195.20MB rss 346.46MB
+2021-11-18 16:08-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:08-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:08-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:08-debug: 压缩 zip bundle start53%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 196.90MB rss 348.68MB
+2021-11-18 16:08-debug: 压缩 zip bundle √60%
+2021-11-18 16:08-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 196.92MB rss 348.68MB
+2021-11-18 16:08-debug: 初始化 settings 与 config start70%
+2021-11-18 16:08-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:08-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 196.94MB rss 348.66MB
+2021-11-18 16:08-debug: 初始化 settings 与 config √71%
+2021-11-18 16:08-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:08-debug: tasks.settings.macro start71%
+2021-11-18 16:08-log: // ---- tasks.settings.macro ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 196.97MB rss 348.66MB
+2021-11-18 16:08-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:08-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:08-debug: tasks.settings.macro √71%
+2021-11-18 16:08-debug: 使用缓存 settings start71%
+2021-11-18 16:08-log: // ---- 使用缓存 settings ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.03MB rss 348.63MB
+2021-11-18 16:08-debug: 使用缓存 settings √72%
+2021-11-18 16:08-debug: custom joint texture layouts start72%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.10MB rss 348.59MB
+2021-11-18 16:08-log: // ---- custom joint texture layouts ----
+2021-11-18 16:08-debug: custom joint texture layouts √72%
+2021-11-18 16:08-debug: custom joint physics start72%
+2021-11-18 16:08-log: // ---- custom joint physics ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.19MB rss 348.59MB
+2021-11-18 16:08-debug: custom joint physics √73%
+2021-11-18 16:08-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:08-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.21MB rss 348.59MB
+2021-11-18 16:08-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:08-debug: 填充场景数据到 settings start73%
+2021-11-18 16:08-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:08-debug: 填充场景数据到 settings √74%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.23MB rss 348.57MB
+2021-11-18 16:08-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:08-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:08-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.28MB rss 348.58MB
+2021-11-18 16:08-debug: options.md5Cache is false.
+2021-11-18 16:08-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:08-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:08-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.31MB rss 348.59MB
+2021-11-18 16:08-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:08-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:08-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:08-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.34MB rss 348.60MB
+2021-11-18 16:08-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:08-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.26MB rss 348.57MB
+2021-11-18 16:08-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:08-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:08-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.44MB rss 348.59MB
+2021-11-18 16:08-debug: get settings testundefined
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:08-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:08-debug:  start82%
+2021-11-18 16:08-log: // ----  ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.47MB rss 348.56MB
+2021-11-18 16:08-debug:  √83%
+2021-11-18 16:08-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.52MB rss 348.54MB
+2021-11-18 16:08-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:08-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:08-debug: 保存 config.json start84%
+2021-11-18 16:08-log: // ---- 保存 config.json ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.57MB rss 348.54MB
+2021-11-18 16:08-log: // ---- 保存 settings.json ----
+2021-11-18 16:08-debug: 保存 settings.json start85%
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.61MB rss 348.48MB
+2021-11-18 16:08-debug: 保存 config.json √85%
+2021-11-18 16:08-debug: 整理静态模板文件 start86%
+2021-11-18 16:08-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:08-debug: Process: heapTotal 216.26MB heapUsed 197.72MB rss 348.48MB
+2021-11-18 16:08-debug: 整理静态模板文件 √87%
+2021-11-18 16:08-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:08-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:08-debug: Process: heapTotal 217.03MB heapUsed 195.51MB rss 349.02MB
+2021-11-18 16:08-debug: 保存 settings.json √86%
+2021-11-18 16:08-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:08-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:08-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:08-debug: Process: heapTotal 217.03MB heapUsed 195.61MB rss 348.81MB
+2021-11-18 16:08-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:08-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:08-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:08-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:08-debug: Process: heapTotal 217.03MB heapUsed 195.89MB rss 348.78MB
+2021-11-18 16:08-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:08-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:08-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:08-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:08-debug: Process: heapTotal 217.03MB heapUsed 198.12MB rss 351.76MB
+2021-11-18 16:08-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:08-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:08-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:08-debug: Process: heapTotal 217.03MB heapUsed 198.26MB rss 348.79MB
+2021-11-18 16:08-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:08-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:08-debug: containsAsset of imagefalse
+2021-11-18 16:08-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:08-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:08-debug: getJsonPathInfo of image
+2021-11-18 16:08-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:08-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:08-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:08-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:08-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:08-debug: getAssetPathInfo of image
+2021-11-18 16:08-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:08-debug: containsAsset of scriptfalse
+2021-11-18 16:08-debug: getAssetPathInfo of script
+2021-11-18 16:08-debug: getRawAssetPaths of script
+2021-11-18 16:08-debug: getJsonPathInfo of script
+2021-11-18 16:08-debug: containsAsset of ttffalse
+2021-11-18 16:08-debug: getAssetPathInfo of ttf
+2021-11-18 16:08-debug: getRawAssetPaths of ttf
+2021-11-18 16:08-debug: getJsonPathInfo of ttf
+2021-11-18 16:08-debug: containsAsset of gltffalse
+2021-11-18 16:08-debug: getAssetPathInfo of gltf
+2021-11-18 16:08-debug: getRawAssetPaths of gltf
+2021-11-18 16:08-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:08-debug: containsAsset of scenefalse
+2021-11-18 16:08-debug: getAssetPathInfo of scene
+2021-11-18 16:08-debug: getRawAssetPaths of scene
+2021-11-18 16:08-debug: getJsonPathInfo of scene
+2021-11-18 16:08-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:08-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:08-debug: getJsonPathInfo of gltf
+2021-11-18 16:08-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:08-debug: getRawAssetPaths of image
+2021-11-18 16:08-debug: build success in 15575 ms!
+2021-11-18 16:08-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:10-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:10-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:10-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:10-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:10-debug: Process: heapTotal 183.78MB heapUsed 175.79MB rss 314.35MB
+2021-11-18 16:10-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:10-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:10-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:10-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:10-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:10-debug: Process: heapTotal 183.78MB heapUsed 176.00MB rss 314.62MB
+2021-11-18 16:10-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:10-debug: Query all assets info in project
+2021-11-18 16:10-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:10-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:10-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:10-debug:   Number of all scenes: 8
+2021-11-18 16:10-debug:   Number of all scripts: 10
+2021-11-18 16:10-debug:   Number of other assets: 414
+2021-11-18 16:10-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:10-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:10-debug: Process: heapTotal 184.04MB heapUsed 176.72MB rss 315.56MB
+2021-11-18 16:10-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:10-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:10-debug: Process: heapTotal 184.04MB heapUsed 176.80MB rss 315.22MB
+2021-11-18 16:10-debug: reload all scripts.
+2021-11-18 16:10-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:10-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:10-debug: Unregister PlayerCtrl
+2021-11-18 16:10-debug: Unregister UiMain
+2021-11-18 16:10-debug: Unregister BagSHowModle
+2021-11-18 16:10-debug: Unregister HpSp
+2021-11-18 16:10-debug: Unregister CubeRotate
+2021-11-18 16:10-debug: Unregister PlayerControll
+2021-11-18 16:10-debug: Unregister UiShow3d
+2021-11-18 16:10-debug: Unregister Physicals
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-11-18 16:10-debug: Unregister Ray
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/bagSHowModle.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/collision.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/cubeRotate.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/playerControll.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ray.js'
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/uiShow3d.js'
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/physicals.js'
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register UiMain
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register Collision
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register HpSp
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:10-debug: Unregister Collision
+2021-11-18 16:10-debug: [[Executor]] Register Physicals
+2021-11-18 16:10-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register Ray
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:10-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:10-debug: 查询 asset bundle start9%
+2021-11-18 16:10-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:10-debug: Process: heapTotal 184.04MB heapUsed 176.83MB rss 315.34MB
+2021-11-18 16:10-log: // ---- 查询 asset bundle ----
+2021-11-18 16:10-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/hpSp.js'
+2021-11-18 16:10-debug: 查询 asset bundle √10%
+2021-11-18 16:10-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:10-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:10-debug: Process: heapTotal 184.04MB heapUsed 176.90MB rss 315.37MB
+2021-11-18 16:10-debug: Number of scenes: 1
+2021-11-18 16:10-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:10-debug: Number of assets: 33
+2021-11-18 16:10-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:10-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.16MB rss 318.86MB
+2021-11-18 16:10-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:10-debug: sort script group...
+2021-11-18 16:10-debug: Number of asset bundle: 1
+2021-11-18 16:10-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.23MB rss 318.93MB
+2021-11-18 16:10-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:10-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:10-debug: Number of image-compress task: 0
+2021-11-18 16:10-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:10-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.30MB rss 319.01MB
+2021-11-18 16:10-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:10-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:10-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:10-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.34MB rss 319.06MB
+2021-11-18 16:10-debug: Number of json group: 1
+2021-11-18 16:10-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:10-debug:  start16%
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.37MB rss 319.07MB
+2021-11-18 16:10-debug:  √18%
+2021-11-18 16:10-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:10-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.40MB rss 319.10MB
+2021-11-18 16:10-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:10-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:10-debug:  start20%
+2021-11-18 16:10-log: // ----  ----
+2021-11-18 16:10-debug: Process: heapTotal 185.04MB heapUsed 178.43MB rss 319.14MB
+2021-11-18 16:10-log: // ----  ----
+2021-11-18 16:10-debug: 打包脚本20%
+2021-11-18 16:10-debug: Process: heapTotal 201.28MB heapUsed 187.91MB rss 333.84MB
+2021-11-18 16:10-debug: Copy externalScripts success!
+2021-11-18 16:10-debug: 打包脚本√20%
+2021-11-18 16:10-debug: 构建引擎20%
+2021-11-18 16:10-debug: Process: heapTotal 207.53MB heapUsed 182.90MB rss 328.89MB
+2021-11-18 16:10-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:10-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:10-debug: 构建引擎√20%
+2021-11-18 16:10-debug: 构建自动图集 start27%
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.40MB rss 330.16MB
+2021-11-18 16:10-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:10-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.44MB rss 330.01MB
+2021-11-18 16:10-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:10-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:10-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.46MB rss 330.01MB
+2021-11-18 16:10-debug: 构建自动图集 √33%
+2021-11-18 16:10-debug:  √27%
+2021-11-18 16:10-log: // ---- 构建自动图集 ----
+2021-11-18 16:10-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:10-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:10-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:10-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 184.12MB rss 330.11MB
+2021-11-18 16:10-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:10-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:10-debug: 压缩 zip bundle start53%
+2021-11-18 16:10-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:10-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:10-debug: Process: heapTotal 211.26MB heapUsed 185.74MB rss 332.39MB
+2021-11-18 16:10-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:10-debug: Process: heapTotal 211.26MB heapUsed 185.76MB rss 332.40MB
+2021-11-18 16:10-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:10-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:10-debug: 初始化 settings 与 config start70%
+2021-11-18 16:10-debug: Process: heapTotal 211.26MB heapUsed 185.79MB rss 332.41MB
+2021-11-18 16:10-debug: 初始化 settings 与 config √71%
+2021-11-18 16:10-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:10-debug: Process: heapTotal 211.26MB heapUsed 185.82MB rss 332.41MB
+2021-11-18 16:10-debug: 压缩 zip bundle √60%
+2021-11-18 16:10-log: // ---- tasks.settings.macro ----
+2021-11-18 16:10-debug: tasks.settings.macro start71%
+2021-11-18 16:10-debug: tasks.settings.macro √71%
+2021-11-18 16:10-debug: 使用缓存 settings start71%
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.53MB rss 331.82MB
+2021-11-18 16:10-log: // ---- 使用缓存 settings ----
+2021-11-18 16:10-debug: custom joint texture layouts start72%
+2021-11-18 16:10-log: // ---- custom joint texture layouts ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.60MB rss 331.81MB
+2021-11-18 16:10-debug: 使用缓存 settings √72%
+2021-11-18 16:10-debug: custom joint texture layouts √72%
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.63MB rss 331.81MB
+2021-11-18 16:10-debug: custom joint physics √73%
+2021-11-18 16:10-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:10-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.65MB rss 331.82MB
+2021-11-18 16:10-debug: custom joint physics start72%
+2021-11-18 16:10-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:10-debug: 填充场景数据到 settings start73%
+2021-11-18 16:10-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.68MB rss 331.79MB
+2021-11-18 16:10-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:10-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.70MB rss 331.79MB
+2021-11-18 16:10-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:10-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:10-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.72MB rss 331.80MB
+2021-11-18 16:10-debug: options.md5Cache is false.
+2021-11-18 16:10-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:10-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:10-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.75MB rss 331.80MB
+2021-11-18 16:10-debug: 填充场景数据到 settings √74%
+2021-11-18 16:10-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:10-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:10-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:10-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.78MB rss 331.82MB
+2021-11-18 16:10-log: // ---- custom joint physics ----
+2021-11-18 16:10-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.88MB rss 331.79MB
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:10-debug: get settings testundefined
+2021-11-18 16:10-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:10-debug:  start82%
+2021-11-18 16:10-log: // ----  ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.91MB rss 331.76MB
+2021-11-18 16:10-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:10-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:10-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:10-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:10-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:10-debug:  √83%
+2021-11-18 16:10-log: // ---- 保存 config.json ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 184.01MB rss 331.74MB
+2021-11-18 16:10-debug: 保存 config.json start84%
+2021-11-18 16:10-debug: 保存 config.json √85%
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 184.04MB rss 331.73MB
+2021-11-18 16:10-log: // ---- 保存 settings.json ----
+2021-11-18 16:10-debug: 保存 settings.json √86%
+2021-11-18 16:10-debug: 整理静态模板文件 start86%
+2021-11-18 16:10-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 184.16MB rss 331.73MB
+2021-11-18 16:10-debug: 整理静态模板文件 √87%
+2021-11-18 16:10-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:10-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:10-debug: Process: heapTotal 214.53MB heapUsed 185.26MB rss 332.17MB
+2021-11-18 16:10-debug: 保存 settings.json start85%
+2021-11-18 16:10-debug: Process: heapTotal 210.53MB heapUsed 183.96MB rss 331.74MB
+2021-11-18 16:10-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:10-debug: Process: heapTotal 214.53MB heapUsed 185.37MB rss 332.17MB
+2021-11-18 16:10-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:10-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:10-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:10-debug: Process: heapTotal 214.53MB heapUsed 185.63MB rss 332.08MB
+2021-11-18 16:10-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:10-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:10-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:10-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:10-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:10-debug: Process: heapTotal 214.53MB heapUsed 184.74MB rss 335.52MB
+2021-11-18 16:10-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:10-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:10-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:10-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:10-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:10-debug: Process: heapTotal 214.53MB heapUsed 184.85MB rss 334.36MB
+2021-11-18 16:10-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:10-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:10-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:10-debug: containsAsset of imagefalse
+2021-11-18 16:10-debug: getAssetPathInfo of image
+2021-11-18 16:10-debug: getRawAssetPaths of image
+2021-11-18 16:10-debug: getJsonPathInfo of image
+2021-11-18 16:10-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:10-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:10-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:10-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:10-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:10-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:10-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:10-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:10-debug: containsAsset of scriptfalse
+2021-11-18 16:10-debug: getAssetPathInfo of script
+2021-11-18 16:10-debug: getRawAssetPaths of script
+2021-11-18 16:10-debug: containsAsset of ttffalse
+2021-11-18 16:10-debug: getJsonPathInfo of script
+2021-11-18 16:10-debug: getAssetPathInfo of ttf
+2021-11-18 16:10-debug: getRawAssetPaths of ttf
+2021-11-18 16:10-debug: getJsonPathInfo of ttf
+2021-11-18 16:10-debug: containsAsset of gltffalse
+2021-11-18 16:10-debug: getAssetPathInfo of gltf
+2021-11-18 16:10-debug: getRawAssetPaths of gltf
+2021-11-18 16:10-debug: getJsonPathInfo of gltf
+2021-11-18 16:10-debug: containsAsset of scenefalse
+2021-11-18 16:10-debug: getAssetPathInfo of scene
+2021-11-18 16:10-debug: getRawAssetPaths of scene
+2021-11-18 16:10-debug: getJsonPathInfo of scene
+2021-11-18 16:10-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:10-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:10-debug: build success in 12155 ms!
+2021-11-18 16:10-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:10-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:11-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:11-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:11-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:11-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:11-debug: Process: heapTotal 184.53MB heapUsed 176.13MB rss 315.59MB
+2021-11-18 16:11-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:11-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:11-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:11-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:11-debug: Process: heapTotal 184.53MB heapUsed 176.51MB rss 315.80MB
+2021-11-18 16:11-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:11-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:11-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:11-debug: Query all assets info in project
+2021-11-18 16:11-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:11-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:11-debug:   Number of other assets: 414
+2021-11-18 16:11-debug:   Number of all scenes: 8
+2021-11-18 16:11-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:11-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:11-debug: Process: heapTotal 184.79MB heapUsed 177.36MB rss 316.73MB
+2021-11-18 16:11-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:11-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:11-debug: Process: heapTotal 184.79MB heapUsed 177.47MB rss 316.41MB
+2021-11-18 16:11-debug: reload all scripts.
+2021-11-18 16:11-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:11-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:11-debug:   Number of all scripts: 10
+2021-11-18 16:11-debug: Unregister UiMain
+2021-11-18 16:11-debug: Unregister PlayerCtrl
+2021-11-18 16:11-debug: Unregister HpSp
+2021-11-18 16:11-debug: Unregister Physicals
+2021-11-18 16:11-debug: Unregister CubeRotate
+2021-11-18 16:11-debug: Unregister PlayerControll
+2021-11-18 16:11-debug: Unregister Ray
+2021-11-18 16:11-debug: Unregister UiShow3d
+2021-11-18 16:11-debug: Unregister Collision
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js'
+2021-11-18 16:11-debug: Unregister BagSHowModle
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/collision.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/cubeRotate.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/physicals.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/playerControll.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ray.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/uiShow3d.js'
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register UiMain
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register Collision
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/hpSp.js'
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/bagSHowModle.js'
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:11-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register HpSp
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register Ray
+2021-11-18 16:11-debug: [[Executor]] Register Physicals
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:11-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:11-debug: 查询 asset bundle start9%
+2021-11-18 16:11-log: // ---- 查询 asset bundle ----
+2021-11-18 16:11-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:11-debug: Process: heapTotal 185.04MB heapUsed 177.65MB rss 316.54MB
+2021-11-18 16:11-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:11-debug: 查询 asset bundle √10%
+2021-11-18 16:11-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:11-debug: Process: heapTotal 185.04MB heapUsed 177.72MB rss 316.61MB
+2021-11-18 16:11-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:11-debug: Number of scenes: 1
+2021-11-18 16:11-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:11-debug: Number of assets: 33
+2021-11-18 16:11-debug: Number of asset bundle: 1
+2021-11-18 16:11-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:11-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:11-debug: Process: heapTotal 185.78MB heapUsed 179.09MB rss 320.32MB
+2021-11-18 16:11-debug: sort script group...
+2021-11-18 16:11-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:11-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:11-debug: Process: heapTotal 185.78MB heapUsed 179.16MB rss 320.39MB
+2021-11-18 16:11-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:11-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:11-debug: Number of image-compress task: 0
+2021-11-18 16:11-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:11-debug: Process: heapTotal 185.79MB heapUsed 178.56MB rss 319.76MB
+2021-11-18 16:11-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:11-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:11-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:11-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:11-debug: Process: heapTotal 185.79MB heapUsed 178.61MB rss 319.80MB
+2021-11-18 16:11-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:11-log: // ----  ----
+2021-11-18 16:11-debug:  start16%
+2021-11-18 16:11-debug: Process: heapTotal 185.79MB heapUsed 178.63MB rss 319.85MB
+2021-11-18 16:11-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:11-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:11-debug:  √18%
+2021-11-18 16:11-debug: Process: heapTotal 185.79MB heapUsed 178.66MB rss 319.87MB
+2021-11-18 16:11-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:11-debug: Number of json group: 1
+2021-11-18 16:11-debug:  start20%
+2021-11-18 16:11-log: // ----  ----
+2021-11-18 16:11-debug: Process: heapTotal 185.79MB heapUsed 178.69MB rss 319.91MB
+2021-11-18 16:11-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:11-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:11-debug: 打包脚本20%
+2021-11-18 16:11-debug: Process: heapTotal 201.03MB heapUsed 186.20MB rss 335.77MB
+2021-11-18 16:11-debug: 打包脚本√20%
+2021-11-18 16:11-debug: Copy externalScripts success!
+2021-11-18 16:11-debug: 构建引擎20%
+2021-11-18 16:11-debug: Process: heapTotal 207.78MB heapUsed 182.25MB rss 329.22MB
+2021-11-18 16:11-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:11-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:11-debug: 构建引擎√20%
+2021-11-18 16:11-debug:  √27%
+2021-11-18 16:11-debug: 构建自动图集 start27%
+2021-11-18 16:11-log: // ---- 构建自动图集 ----
+2021-11-18 16:11-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:11-debug: Process: heapTotal 210.78MB heapUsed 183.35MB rss 330.49MB
+2021-11-18 16:11-debug: 构建自动图集 √33%
+2021-11-18 16:11-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:11-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:11-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:11-debug: Process: heapTotal 210.78MB heapUsed 183.41MB rss 330.49MB
+2021-11-18 16:11-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:11-debug: Process: heapTotal 210.78MB heapUsed 183.38MB rss 330.46MB
+2021-11-18 16:11-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:11-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:11-debug: Process: heapTotal 210.78MB heapUsed 182.75MB rss 330.88MB
+2021-11-18 16:11-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:11-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:11-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:11-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:11-debug: 压缩 zip bundle start53%
+2021-11-18 16:11-debug: 压缩 zip bundle √60%
+2021-11-18 16:11-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:11-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:11-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:11-debug: 初始化 settings 与 config start70%
+2021-11-18 16:11-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.17MB rss 332.79MB
+2021-11-18 16:11-debug: 初始化 settings 与 config √71%
+2021-11-18 16:11-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:11-debug: tasks.settings.macro start71%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.15MB rss 332.82MB
+2021-11-18 16:11-log: // ---- tasks.settings.macro ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.13MB rss 332.82MB
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.20MB rss 332.80MB
+2021-11-18 16:11-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:11-debug: tasks.settings.macro √71%
+2021-11-18 16:11-debug: 使用缓存 settings start71%
+2021-11-18 16:11-log: // ---- 使用缓存 settings ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.26MB rss 332.77MB
+2021-11-18 16:11-debug: 使用缓存 settings √72%
+2021-11-18 16:11-debug: custom joint texture layouts start72%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.33MB rss 332.75MB
+2021-11-18 16:11-log: // ---- custom joint texture layouts ----
+2021-11-18 16:11-debug: custom joint texture layouts √72%
+2021-11-18 16:11-debug: custom joint physics start72%
+2021-11-18 16:11-log: // ---- custom joint physics ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.36MB rss 332.75MB
+2021-11-18 16:11-debug: custom joint physics √73%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.38MB rss 332.75MB
+2021-11-18 16:11-debug: 填充场景数据到 settings start73%
+2021-11-18 16:11-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.41MB rss 332.73MB
+2021-11-18 16:11-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:11-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:11-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:11-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:11-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.43MB rss 332.73MB
+2021-11-18 16:11-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:11-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:11-debug: 填充场景数据到 settings √74%
+2021-11-18 16:11-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:11-debug: options.md5Cache is false.
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.45MB rss 332.73MB
+2021-11-18 16:11-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.48MB rss 332.74MB
+2021-11-18 16:11-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:11-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:11-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:11-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:11-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.52MB rss 332.75MB
+2021-11-18 16:11-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:11-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:11-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:11-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.62MB rss 332.72MB
+2021-11-18 16:11-debug: get settings testundefined
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:11-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:11-debug:  start82%
+2021-11-18 16:11-log: // ----  ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.65MB rss 332.72MB
+2021-11-18 16:11-debug:  √83%
+2021-11-18 16:11-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.69MB rss 332.73MB
+2021-11-18 16:11-debug: 保存 config.json start84%
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.75MB rss 332.73MB
+2021-11-18 16:11-log: // ---- 保存 config.json ----
+2021-11-18 16:11-debug: 保存 config.json √85%
+2021-11-18 16:11-debug: 保存 settings.json start85%
+2021-11-18 16:11-log: // ---- 保存 settings.json ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.78MB rss 332.73MB
+2021-11-18 16:11-debug: 保存 settings.json √86%
+2021-11-18 16:11-debug: 整理静态模板文件 start86%
+2021-11-18 16:11-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:11-debug: Process: heapTotal 215.51MB heapUsed 185.89MB rss 332.73MB
+2021-11-18 16:11-debug: 整理静态模板文件 √87%
+2021-11-18 16:11-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:11-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:11-debug: Process: heapTotal 215.03MB heapUsed 186.68MB rss 336.35MB
+2021-11-18 16:11-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:11-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:11-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:11-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:11-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:11-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:11-debug: Process: heapTotal 215.03MB heapUsed 186.83MB rss 335.26MB
+2021-11-18 16:11-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:11-debug: Process: heapTotal 215.03MB heapUsed 187.10MB rss 335.51MB
+2021-11-18 16:11-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:11-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:11-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:11-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:11-debug: Process: heapTotal 215.03MB heapUsed 186.27MB rss 336.64MB
+2021-11-18 16:11-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:11-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:11-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:11-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:11-debug: Process: heapTotal 215.03MB heapUsed 186.33MB rss 336.61MB
+2021-11-18 16:11-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:11-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:11-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:11-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:11-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:11-debug: getRawAssetPaths of image
+2021-11-18 16:11-debug: getJsonPathInfo of image
+2021-11-18 16:11-debug: getAssetPathInfo of image
+2021-11-18 16:11-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:11-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:11-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:11-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:11-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:11-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:11-debug: containsAsset of scriptfalse
+2021-11-18 16:11-debug: getAssetPathInfo of script
+2021-11-18 16:11-debug: getJsonPathInfo of script
+2021-11-18 16:11-debug: containsAsset of imagefalse
+2021-11-18 16:11-debug: getRawAssetPaths of script
+2021-11-18 16:11-debug: containsAsset of ttffalse
+2021-11-18 16:11-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:11-debug: getJsonPathInfo of ttf
+2021-11-18 16:11-debug: containsAsset of gltffalse
+2021-11-18 16:11-debug: getAssetPathInfo of gltf
+2021-11-18 16:11-debug: getRawAssetPaths of gltf
+2021-11-18 16:11-debug: getJsonPathInfo of gltf
+2021-11-18 16:11-debug: containsAsset of scenefalse
+2021-11-18 16:11-debug: getAssetPathInfo of scene
+2021-11-18 16:11-debug: getRawAssetPaths of scene
+2021-11-18 16:11-debug: getJsonPathInfo of scene
+2021-11-18 16:11-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:11-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:11-debug: getAssetPathInfo of ttf
+2021-11-18 16:11-debug: build success in 12048 ms!
+2021-11-18 16:11-debug: getRawAssetPaths of ttf
+2021-11-18 16:11-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:11-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:32-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:32-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:32-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:32-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:32-debug: Process: heapTotal 185.03MB heapUsed 176.44MB rss 231.43MB
+2021-11-18 16:32-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:32-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:32-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:32-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:32-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:32-debug: Process: heapTotal 185.03MB heapUsed 176.64MB rss 231.63MB
+2021-11-18 16:32-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:32-debug: Query all assets info in project
+2021-11-18 16:32-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:32-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:32-debug:   Number of all scenes: 8
+2021-11-18 16:32-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:32-debug:   Number of all scripts: 10
+2021-11-18 16:32-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:32-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:32-debug: Process: heapTotal 185.29MB heapUsed 177.34MB rss 232.49MB
+2021-11-18 16:32-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:32-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:32-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:32-debug:   Number of other assets: 414
+2021-11-18 16:32-debug: Process: heapTotal 185.29MB heapUsed 177.44MB rss 232.29MB
+2021-11-18 16:32-debug: reload all scripts.
+2021-11-18 16:32-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:32-debug: Unregister PlayerCtrl
+2021-11-18 16:32-debug: Unregister BagSHowModle
+2021-11-18 16:32-debug: Unregister CubeRotate
+2021-11-18 16:32-debug: Unregister Physicals
+2021-11-18 16:32-debug: Unregister HpSp
+2021-11-18 16:32-debug: Unregister PlayerControll
+2021-11-18 16:32-debug: Unregister Ray
+2021-11-18 16:32-debug: Unregister UiShow3d
+2021-11-18 16:32-debug: Unregister Collision
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js'
+2021-11-18 16:32-debug: Unregister UiMain
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/collision.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/cubeRotate.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/bagSHowModle.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/physicals.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/playerControll.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ray.js'
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/uiShow3d.js'
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Register UiMain
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Register Collision
+2021-11-18 16:32-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:32-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/hpSp.js'
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Register HpSp
+2021-11-18 16:32-debug: [[Executor]] Register Physicals
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Register Ray
+2021-11-18 16:32-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:32-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:32-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:32-log: // ---- 查询 asset bundle ----
+2021-11-18 16:32-debug: Process: heapTotal 185.54MB heapUsed 177.84MB rss 232.24MB
+2021-11-18 16:32-debug: 查询 asset bundle start9%
+2021-11-18 16:32-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:32-debug: 查询 asset bundle √10%
+2021-11-18 16:32-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:32-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:32-debug: Process: heapTotal 185.54MB heapUsed 177.91MB rss 232.27MB
+2021-11-18 16:32-debug: Number of scenes: 1
+2021-11-18 16:32-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:32-debug: Number of assets: 33
+2021-11-18 16:32-debug: Number of asset bundle: 1
+2021-11-18 16:32-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:32-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:32-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:32-debug: Process: heapTotal 186.03MB heapUsed 179.46MB rss 235.52MB
+2021-11-18 16:32-debug: sort script group...
+2021-11-18 16:32-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:32-debug: Process: heapTotal 186.03MB heapUsed 179.52MB rss 235.56MB
+2021-11-18 16:32-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:32-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:32-debug: Number of image-compress task: 0
+2021-11-18 16:32-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:32-debug: Process: heapTotal 186.03MB heapUsed 179.59MB rss 235.63MB
+2021-11-18 16:32-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:32-debug: Number of json group: 1
+2021-11-18 16:32-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:32-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:32-debug: Process: heapTotal 186.03MB heapUsed 179.64MB rss 235.68MB
+2021-11-18 16:32-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:32-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:32-debug:  start16%
+2021-11-18 16:32-log: // ----  ----
+2021-11-18 16:32-debug: Process: heapTotal 186.03MB heapUsed 179.66MB rss 235.72MB
+2021-11-18 16:32-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:32-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:32-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:32-debug: Process: heapTotal 186.28MB heapUsed 179.32MB rss 235.34MB
+2021-11-18 16:32-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:32-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:32-debug:  start20%
+2021-11-18 16:32-log: // ----  ----
+2021-11-18 16:32-debug: Process: heapTotal 186.28MB heapUsed 179.35MB rss 235.38MB
+2021-11-18 16:32-debug:  √18%
+2021-11-18 16:32-debug: 打包脚本20%
+2021-11-18 16:32-debug: Process: heapTotal 200.53MB heapUsed 187.10MB rss 248.61MB
+2021-11-18 16:32-debug: Copy externalScripts success!
+2021-11-18 16:32-debug: 打包脚本√20%
+2021-11-18 16:32-debug: 构建引擎20%
+2021-11-18 16:32-debug: Process: heapTotal 216.28MB heapUsed 190.35MB rss 254.66MB
+2021-11-18 16:32-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:32-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:32-debug: 构建引擎√20%
+2021-11-18 16:32-debug: 构建自动图集 start27%
+2021-11-18 16:32-debug: Process: heapTotal 216.28MB heapUsed 193.28MB rss 255.50MB
+2021-11-18 16:32-debug:  √27%
+2021-11-18 16:32-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:32-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:32-debug: Process: heapTotal 216.28MB heapUsed 193.31MB rss 255.38MB
+2021-11-18 16:32-debug: 构建自动图集 √33%
+2021-11-18 16:32-log: // ---- 构建自动图集 ----
+2021-11-18 16:32-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:32-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:32-debug: Process: heapTotal 216.28MB heapUsed 193.33MB rss 255.41MB
+2021-11-18 16:32-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:32-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:32-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:32-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:32-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:32-debug: Process: heapTotal 216.28MB heapUsed 193.99MB rss 256.16MB
+2021-11-18 16:32-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:32-debug: 压缩 zip bundle start53%
+2021-11-18 16:32-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.11MB rss 260.09MB
+2021-11-18 16:32-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:32-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:32-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.14MB rss 260.11MB
+2021-11-18 16:32-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:32-debug: 压缩 zip bundle √60%
+2021-11-18 16:32-debug: 初始化 settings 与 config start70%
+2021-11-18 16:32-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.16MB rss 260.11MB
+2021-11-18 16:32-debug: 初始化 settings 与 config √71%
+2021-11-18 16:32-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:32-debug: tasks.settings.macro start71%
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.19MB rss 260.14MB
+2021-11-18 16:32-log: // ---- tasks.settings.macro ----
+2021-11-18 16:32-debug: tasks.settings.macro √71%
+2021-11-18 16:32-debug: 使用缓存 settings start71%
+2021-11-18 16:32-log: // ---- 使用缓存 settings ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.25MB rss 260.17MB
+2021-11-18 16:32-debug: 使用缓存 settings √72%
+2021-11-18 16:32-debug: custom joint texture layouts start72%
+2021-11-18 16:32-log: // ---- custom joint texture layouts ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.32MB rss 260.20MB
+2021-11-18 16:32-debug: custom joint texture layouts √72%
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.35MB rss 260.23MB
+2021-11-18 16:32-debug: custom joint physics √73%
+2021-11-18 16:32-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:32-debug: custom joint physics start72%
+2021-11-18 16:32-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.37MB rss 260.25MB
+2021-11-18 16:32-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:32-debug: 填充场景数据到 settings start73%
+2021-11-18 16:32-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.40MB rss 260.24MB
+2021-11-18 16:32-debug: 填充场景数据到 settings √74%
+2021-11-18 16:32-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:32-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.42MB rss 260.27MB
+2021-11-18 16:32-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:32-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:32-log: // ---- custom joint physics ----
+2021-11-18 16:32-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.44MB rss 260.29MB
+2021-11-18 16:32-debug: options.md5Cache is false.
+2021-11-18 16:32-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:32-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:32-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.47MB rss 260.32MB
+2021-11-18 16:32-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:32-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.50MB rss 260.35MB
+2021-11-18 16:32-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:32-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:32-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:32-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:32-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.60MB rss 260.42MB
+2021-11-18 16:32-debug: get settings testundefined
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:32-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:32-debug:  start82%
+2021-11-18 16:32-log: // ----  ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.63MB rss 260.44MB
+2021-11-18 16:32-debug:  √83%
+2021-11-18 16:32-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:32-debug: 保存 config.json start84%
+2021-11-18 16:32-log: // ---- 保存 config.json ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.73MB rss 260.52MB
+2021-11-18 16:32-debug: 保存 config.json √85%
+2021-11-18 16:32-debug: 保存 settings.json start85%
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.67MB rss 260.46MB
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.76MB rss 260.52MB
+2021-11-18 16:32-debug: 保存 settings.json √86%
+2021-11-18 16:32-debug: 整理静态模板文件 start86%
+2021-11-18 16:32-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:32-debug: Process: heapTotal 217.63MB heapUsed 195.89MB rss 260.63MB
+2021-11-18 16:32-debug: 整理静态模板文件 √87%
+2021-11-18 16:32-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:32-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:32-debug: Process: heapTotal 216.90MB heapUsed 192.81MB rss 262.75MB
+2021-11-18 16:32-log: // ---- 保存 settings.json ----
+2021-11-18 16:32-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:32-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:32-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:32-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:32-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:32-debug: Process: heapTotal 216.90MB heapUsed 192.94MB rss 262.66MB
+2021-11-18 16:32-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:32-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:32-debug: Process: heapTotal 216.90MB heapUsed 193.20MB rss 262.63MB
+2021-11-18 16:32-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:32-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:32-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:32-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:32-debug: Process: heapTotal 216.90MB heapUsed 195.33MB rss 263.39MB
+2021-11-18 16:32-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:32-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:32-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:32-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:32-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:32-debug: Process: heapTotal 216.90MB heapUsed 195.42MB rss 262.34MB
+2021-11-18 16:32-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:32-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:32-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:32-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:32-debug: containsAsset of imagefalse
+2021-11-18 16:32-debug: getAssetPathInfo of image
+2021-11-18 16:32-debug: getRawAssetPaths of image
+2021-11-18 16:32-debug: getJsonPathInfo of image
+2021-11-18 16:32-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:32-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:32-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:32-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:32-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:32-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:32-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:32-debug: getAssetPathInfo of script
+2021-11-18 16:32-debug: containsAsset of scriptfalse
+2021-11-18 16:32-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:32-debug: getRawAssetPaths of script
+2021-11-18 16:32-debug: getJsonPathInfo of script
+2021-11-18 16:32-debug: getAssetPathInfo of ttf
+2021-11-18 16:32-debug: containsAsset of ttffalse
+2021-11-18 16:32-debug: getRawAssetPaths of ttf
+2021-11-18 16:32-debug: containsAsset of gltffalse
+2021-11-18 16:32-debug: getRawAssetPaths of gltf
+2021-11-18 16:32-debug: getAssetPathInfo of gltf
+2021-11-18 16:32-debug: containsAsset of scenefalse
+2021-11-18 16:32-debug: getAssetPathInfo of scene
+2021-11-18 16:32-debug: getJsonPathInfo of gltf
+2021-11-18 16:32-debug: getRawAssetPaths of scene
+2021-11-18 16:32-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:32-debug: getJsonPathInfo of scene
+2021-11-18 16:32-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:32-debug: build success in 12940 ms!
+2021-11-18 16:32-debug: getJsonPathInfo of ttf
+2021-11-18 16:32-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:33-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:33-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:33-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:33-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:33-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:33-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:33-debug: Process: heapTotal 216.90MB heapUsed 195.72MB rss 259.13MB
+2021-11-18 16:33-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:33-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:33-debug: Process: heapTotal 216.90MB heapUsed 195.93MB rss 259.19MB
+2021-11-18 16:33-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:33-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:33-debug: Query all assets info in project
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:33-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:33-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:33-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:33-debug:   Number of all scenes: 8
+2021-11-18 16:33-debug:   Number of all scripts: 10
+2021-11-18 16:33-debug:   Number of other assets: 414
+2021-11-18 16:33-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:33-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:33-debug: Process: heapTotal 217.16MB heapUsed 197.08MB rss 259.89MB
+2021-11-18 16:33-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:33-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:33-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:33-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:33-debug: Process: heapTotal 217.16MB heapUsed 197.58MB rss 259.77MB
+2021-11-18 16:33-debug: reload all scripts.
+2021-11-18 16:33-debug: Unregister PlayerCtrl
+2021-11-18 16:33-debug: Unregister BagSHowModle
+2021-11-18 16:33-debug: Unregister UiMain
+2021-11-18 16:33-debug: Unregister CubeRotate
+2021-11-18 16:33-debug: Unregister Physicals
+2021-11-18 16:33-debug: Unregister Collision
+2021-11-18 16:33-debug: Unregister Ray
+2021-11-18 16:33-debug: Unregister PlayerControll
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-11-18 16:33-debug: Unregister HpSp
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/bagSHowModle.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js'
+2021-11-18 16:33-debug: Unregister UiShow3d
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/cubeRotate.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/collision.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/playerControll.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ray.js'
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register UiMain
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register Collision
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/hpSp.js'
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/uiShow3d.js'
+2021-11-18 16:33-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/physicals.js'
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register HpSp
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register Physicals
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Register Ray
+2021-11-18 16:33-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:33-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:33-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:33-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:33-debug: Process: heapTotal 203.15MB heapUsed 193.30MB rss 246.94MB
+2021-11-18 16:33-log: // ---- 查询 asset bundle ----
+2021-11-18 16:33-debug: 查询 asset bundle start9%
+2021-11-18 16:33-debug: 查询 asset bundle √10%
+2021-11-18 16:33-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:33-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:33-debug: Process: heapTotal 203.15MB heapUsed 193.37MB rss 247.07MB
+2021-11-18 16:33-debug: Number of scenes: 1
+2021-11-18 16:33-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:33-debug: Number of assets: 33
+2021-11-18 16:33-debug: Number of asset bundle: 1
+2021-11-18 16:33-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:33-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 193.83MB rss 248.90MB
+2021-11-18 16:33-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:33-debug: sort script group...
+2021-11-18 16:33-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:33-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:33-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 193.89MB rss 248.97MB
+2021-11-18 16:33-debug: Number of image-compress task: 0
+2021-11-18 16:33-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 193.96MB rss 249.03MB
+2021-11-18 16:33-debug: Number of json group: 1
+2021-11-18 16:33-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:33-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:33-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:33-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:33-debug:  start16%
+2021-11-18 16:33-log: // ----  ----
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 194.01MB rss 249.05MB
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 194.03MB rss 249.09MB
+2021-11-18 16:33-debug:  √18%
+2021-11-18 16:33-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:33-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 194.06MB rss 249.11MB
+2021-11-18 16:33-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:33-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:33-debug:  start20%
+2021-11-18 16:33-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:33-debug: Process: heapTotal 201.90MB heapUsed 194.09MB rss 249.15MB
+2021-11-18 16:33-log: // ----  ----
+2021-11-18 16:33-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:33-debug: 打包脚本20%
+2021-11-18 16:33-debug: Process: heapTotal 213.53MB heapUsed 187.31MB rss 255.24MB
+2021-11-18 16:33-debug: Copy externalScripts success!
+2021-11-18 16:33-debug: 打包脚本√20%
+2021-11-18 16:33-debug: 构建引擎20%
+2021-11-18 16:33-debug: Process: heapTotal 209.28MB heapUsed 183.03MB rss 245.94MB
+2021-11-18 16:33-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:33-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:33-debug: 构建引擎√20%
+2021-11-18 16:33-debug: 构建自动图集 start27%
+2021-11-18 16:33-debug: Process: heapTotal 212.28MB heapUsed 184.15MB rss 246.80MB
+2021-11-18 16:33-debug:  √27%
+2021-11-18 16:33-log: // ---- 构建自动图集 ----
+2021-11-18 16:33-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:33-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:33-debug: Process: heapTotal 212.28MB heapUsed 184.19MB rss 246.83MB
+2021-11-18 16:33-debug: 构建自动图集 √33%
+2021-11-18 16:33-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:33-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:33-debug: Process: heapTotal 212.28MB heapUsed 184.21MB rss 246.82MB
+2021-11-18 16:33-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:33-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:33-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:33-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:33-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:33-debug: Process: heapTotal 212.28MB heapUsed 183.55MB rss 247.40MB
+2021-11-18 16:33-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:33-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:33-debug: 压缩 zip bundle start53%
+2021-11-18 16:33-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 185.92MB rss 249.44MB
+2021-11-18 16:33-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 185.94MB rss 249.44MB
+2021-11-18 16:33-debug: 压缩 zip bundle √60%
+2021-11-18 16:33-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:33-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:33-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 185.96MB rss 249.41MB
+2021-11-18 16:33-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:33-debug: 初始化 settings 与 config √71%
+2021-11-18 16:33-debug: tasks.settings.macro start71%
+2021-11-18 16:33-debug: 初始化 settings 与 config start70%
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 185.99MB rss 249.42MB
+2021-11-18 16:33-log: // ---- tasks.settings.macro ----
+2021-11-18 16:33-debug: tasks.settings.macro √71%
+2021-11-18 16:33-debug: 使用缓存 settings start71%
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.05MB rss 249.40MB
+2021-11-18 16:33-log: // ---- 使用缓存 settings ----
+2021-11-18 16:33-debug: 使用缓存 settings √72%
+2021-11-18 16:33-debug: custom joint texture layouts start72%
+2021-11-18 16:33-log: // ---- custom joint texture layouts ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.12MB rss 249.39MB
+2021-11-18 16:33-debug: custom joint texture layouts √72%
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.15MB rss 249.39MB
+2021-11-18 16:33-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:33-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.18MB rss 249.39MB
+2021-11-18 16:33-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:33-debug: 填充场景数据到 settings start73%
+2021-11-18 16:33-debug: custom joint physics √73%
+2021-11-18 16:33-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.20MB rss 249.38MB
+2021-11-18 16:33-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:33-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.22MB rss 249.38MB
+2021-11-18 16:33-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:33-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:33-log: // ---- custom joint physics ----
+2021-11-18 16:33-debug: 填充场景数据到 settings √74%
+2021-11-18 16:33-debug: custom joint physics start72%
+2021-11-18 16:33-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.24MB rss 249.38MB
+2021-11-18 16:33-debug: options.md5Cache is false.
+2021-11-18 16:33-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:33-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:33-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.27MB rss 249.38MB
+2021-11-18 16:33-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:33-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:33-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.30MB rss 249.38MB
+2021-11-18 16:33-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:33-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:33-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:33-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.40MB rss 249.35MB
+2021-11-18 16:33-debug: get settings testundefined
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:33-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:33-debug:  start82%
+2021-11-18 16:33-log: // ----  ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.43MB rss 249.32MB
+2021-11-18 16:33-debug:  √83%
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.48MB rss 249.32MB
+2021-11-18 16:33-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:33-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:33-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:33-debug: 保存 config.json start84%
+2021-11-18 16:33-log: // ---- 保存 config.json ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.53MB rss 249.32MB
+2021-11-18 16:33-debug: 保存 config.json √85%
+2021-11-18 16:33-debug: 保存 settings.json start85%
+2021-11-18 16:33-log: // ---- 保存 settings.json ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.56MB rss 249.32MB
+2021-11-18 16:33-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:33-debug: Process: heapTotal 217.01MB heapUsed 186.67MB rss 249.32MB
+2021-11-18 16:33-debug: 保存 settings.json √86%
+2021-11-18 16:33-debug: 整理静态模板文件 start86%
+2021-11-18 16:33-debug: 整理静态模板文件 √87%
+2021-11-18 16:33-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:33-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:33-debug: Process: heapTotal 216.53MB heapUsed 187.66MB rss 252.66MB
+2021-11-18 16:33-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:33-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:33-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:33-debug: Process: heapTotal 216.78MB heapUsed 188.01MB rss 251.94MB
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:33-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:33-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:33-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:33-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:33-debug: Process: heapTotal 216.78MB heapUsed 188.28MB rss 252.19MB
+2021-11-18 16:33-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:33-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:33-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:33-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:33-debug: Process: heapTotal 216.78MB heapUsed 187.39MB rss 253.95MB
+2021-11-18 16:33-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:33-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:33-debug: Process: heapTotal 216.78MB heapUsed 187.48MB rss 253.18MB
+2021-11-18 16:33-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:33-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:33-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:33-debug: containsAsset of imagefalse
+2021-11-18 16:33-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:33-debug: getJsonPathInfo of image
+2021-11-18 16:33-debug: getRawAssetPaths of image
+2021-11-18 16:33-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:33-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:33-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:33-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:33-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:33-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:33-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:33-debug: containsAsset of scriptfalse
+2021-11-18 16:33-debug: getAssetPathInfo of script
+2021-11-18 16:33-debug: getRawAssetPaths of script
+2021-11-18 16:33-debug: getJsonPathInfo of script
+2021-11-18 16:33-debug: containsAsset of ttffalse
+2021-11-18 16:33-debug: getAssetPathInfo of ttf
+2021-11-18 16:33-debug: getRawAssetPaths of ttf
+2021-11-18 16:33-debug: getJsonPathInfo of ttf
+2021-11-18 16:33-debug: containsAsset of gltffalse
+2021-11-18 16:33-debug: getAssetPathInfo of gltf
+2021-11-18 16:33-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:33-debug: getAssetPathInfo of image
+2021-11-18 16:33-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:33-debug: getRawAssetPaths of gltf
+2021-11-18 16:33-debug: containsAsset of scenefalse
+2021-11-18 16:33-debug: getAssetPathInfo of scene
+2021-11-18 16:33-debug: getJsonPathInfo of scene
+2021-11-18 16:33-debug: getRawAssetPaths of scene
+2021-11-18 16:33-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:33-debug: getJsonPathInfo of gltf
+2021-11-18 16:33-debug: build success in 11942 ms!
+2021-11-18 16:33-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:33-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:49-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:49-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:49-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:49-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:49-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:49-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:49-debug: Process: heapTotal 185.78MB heapUsed 177.13MB rss 190.78MB
+2021-11-18 16:49-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:49-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:49-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:49-debug: Process: heapTotal 185.78MB heapUsed 177.34MB rss 190.98MB
+2021-11-18 16:49-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:49-debug: Query all assets info in project
+2021-11-18 16:49-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:49-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:49-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:49-debug:   Number of all scenes: 8
+2021-11-18 16:49-debug:   Number of all scripts: 10
+2021-11-18 16:49-debug:   Number of other assets: 414
+2021-11-18 16:49-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:49-debug: Process: heapTotal 186.04MB heapUsed 178.02MB rss 191.84MB
+2021-11-18 16:49-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:49-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:49-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:49-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:49-debug: Process: heapTotal 186.04MB heapUsed 178.12MB rss 191.57MB
+2021-11-18 16:49-debug: reload all scripts.
+2021-11-18 16:49-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:49-debug: Unregister PlayerCtrl
+2021-11-18 16:49-debug: Unregister CubeRotate
+2021-11-18 16:49-debug: Unregister BagSHowModle
+2021-11-18 16:49-debug: Unregister HpSp
+2021-11-18 16:49-debug: Unregister UiMain
+2021-11-18 16:49-debug: Unregister Collision
+2021-11-18 16:49-debug: Unregister PlayerControll
+2021-11-18 16:49-debug: Unregister Ray
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/bagSHowModle.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/collision.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/cubeRotate.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/hpSp.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/physicals.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/playerControll.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ray.js'
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/uiShow3d.js'
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:49-debug: Unregister UiShow3d
+2021-11-18 16:49-debug: Unregister Physicals
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register Collision
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register HpSp
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register Physicals
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register Ray
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Register UiMain
+2021-11-18 16:49-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:49-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:49-debug: 查询 asset bundle start9%
+2021-11-18 16:49-log: // ---- 查询 asset bundle ----
+2021-11-18 16:49-debug: Process: heapTotal 186.29MB heapUsed 178.48MB rss 191.70MB
+2021-11-18 16:49-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:49-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:49-debug: 查询 asset bundle √10%
+2021-11-18 16:49-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:49-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:49-debug: Process: heapTotal 186.29MB heapUsed 178.55MB rss 191.75MB
+2021-11-18 16:49-debug: Number of scenes: 1
+2021-11-18 16:49-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:49-debug: Number of assets: 33
+2021-11-18 16:49-debug: Number of asset bundle: 1
+2021-11-18 16:49-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:49-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 179.79MB rss 194.74MB
+2021-11-18 16:49-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:49-debug: sort script group...
+2021-11-18 16:49-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 179.86MB rss 194.81MB
+2021-11-18 16:49-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:49-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:49-debug: Number of image-compress task: 0
+2021-11-18 16:49-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:49-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 179.92MB rss 194.88MB
+2021-11-18 16:49-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:49-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:49-debug: Number of json group: 1
+2021-11-18 16:49-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:49-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 179.97MB rss 194.93MB
+2021-11-18 16:49-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:49-debug:  start16%
+2021-11-18 16:49-log: // ----  ----
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 180.00MB rss 194.96MB
+2021-11-18 16:49-debug:  √18%
+2021-11-18 16:49-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 180.02MB rss 194.98MB
+2021-11-18 16:49-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:49-debug:  start20%
+2021-11-18 16:49-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:49-log: // ----  ----
+2021-11-18 16:49-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:49-debug: Process: heapTotal 186.54MB heapUsed 180.05MB rss 195.02MB
+2021-11-18 16:49-debug: 打包脚本20%
+2021-11-18 16:49-debug: Process: heapTotal 202.78MB heapUsed 187.97MB rss 210.91MB
+2021-11-18 16:49-debug: Copy externalScripts success!
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 188.96MB rss 212.79MB
+2021-11-18 16:49-debug: 打包脚本√20%
+2021-11-18 16:49-debug: 构建引擎20%
+2021-11-18 16:49-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:49-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:49-debug: 构建引擎√20%
+2021-11-18 16:49-debug: 构建自动图集 start27%
+2021-11-18 16:49-log: // ---- 构建自动图集 ----
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 191.89MB rss 212.44MB
+2021-11-18 16:49-debug: 构建自动图集 √33%
+2021-11-18 16:49-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:49-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 191.92MB rss 212.35MB
+2021-11-18 16:49-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:49-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:49-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:49-debug:  √27%
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 191.95MB rss 212.38MB
+2021-11-18 16:49-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:49-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:49-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 192.60MB rss 213.05MB
+2021-11-18 16:49-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:49-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:49-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:49-debug: 压缩 zip bundle start53%
+2021-11-18 16:49-debug: 压缩 zip bundle √60%
+2021-11-18 16:49-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:49-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.30MB rss 216.86MB
+2021-11-18 16:49-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:49-debug: 初始化 settings 与 config start70%
+2021-11-18 16:49-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.33MB rss 216.87MB
+2021-11-18 16:49-debug: 初始化 settings 与 config √71%
+2021-11-18 16:49-debug: tasks.settings.macro start71%
+2021-11-18 16:49-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.35MB rss 216.90MB
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.38MB rss 216.93MB
+2021-11-18 16:49-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:49-log: // ---- tasks.settings.macro ----
+2021-11-18 16:49-debug: tasks.settings.macro √71%
+2021-11-18 16:49-debug: 使用缓存 settings start71%
+2021-11-18 16:49-log: // ---- 使用缓存 settings ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.44MB rss 216.99MB
+2021-11-18 16:49-debug: 使用缓存 settings √72%
+2021-11-18 16:49-debug: custom joint texture layouts start72%
+2021-11-18 16:49-log: // ---- custom joint texture layouts ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.51MB rss 217.08MB
+2021-11-18 16:49-debug: custom joint texture layouts √72%
+2021-11-18 16:49-log: // ---- custom joint physics ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.54MB rss 217.12MB
+2021-11-18 16:49-debug: custom joint physics start72%
+2021-11-18 16:49-debug: custom joint physics √73%
+2021-11-18 16:49-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.56MB rss 217.14MB
+2021-11-18 16:49-debug: 填充场景数据到 settings start73%
+2021-11-18 16:49-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:49-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.58MB rss 217.13MB
+2021-11-18 16:49-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:49-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:49-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:49-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:49-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.63MB rss 217.18MB
+2021-11-18 16:49-debug: options.md5Cache is false.
+2021-11-18 16:49-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:49-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:49-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.66MB rss 217.21MB
+2021-11-18 16:49-debug: 填充场景数据到 settings √74%
+2021-11-18 16:49-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.61MB rss 217.15MB
+2021-11-18 16:49-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:49-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:49-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.68MB rss 217.24MB
+2021-11-18 16:49-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:49-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:49-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:49-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.81MB rss 217.36MB
+2021-11-18 16:49-debug: get settings testundefined
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:49-debug:  start82%
+2021-11-18 16:49-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:49-log: // ----  ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.84MB rss 217.38MB
+2021-11-18 16:49-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:49-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.88MB rss 217.39MB
+2021-11-18 16:49-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:49-debug:  √83%
+2021-11-18 16:49-debug: 保存 config.json start84%
+2021-11-18 16:49-log: // ---- 保存 config.json ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.94MB rss 217.45MB
+2021-11-18 16:49-debug: 保存 config.json √85%
+2021-11-18 16:49-debug: 保存 settings.json start85%
+2021-11-18 16:49-log: // ---- 保存 settings.json ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 193.97MB rss 217.46MB
+2021-11-18 16:49-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:49-debug: Process: heapTotal 220.26MB heapUsed 194.08MB rss 217.57MB
+2021-11-18 16:49-debug: 整理静态模板文件 start86%
+2021-11-18 16:49-debug: 保存 settings.json √86%
+2021-11-18 16:49-debug: 整理静态模板文件 √87%
+2021-11-18 16:49-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 190.92MB rss 221.21MB
+2021-11-18 16:49-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:49-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:49-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:49-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:49-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:49-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:49-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:49-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:49-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:49-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:49-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 193.40MB rss 221.16MB
+2021-11-18 16:49-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 191.03MB rss 220.56MB
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 191.29MB rss 220.54MB
+2021-11-18 16:49-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:49-debug: Process: heapTotal 219.53MB heapUsed 193.49MB rss 220.39MB
+2021-11-18 16:49-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:49-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:49-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:49-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:49-debug: containsAsset of imagefalse
+2021-11-18 16:49-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:49-debug: getRawAssetPaths of image
+2021-11-18 16:49-debug: getJsonPathInfo of image
+2021-11-18 16:49-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:49-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:49-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:49-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:49-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:49-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:49-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:49-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:49-debug: containsAsset of scriptfalse
+2021-11-18 16:49-debug: getAssetPathInfo of script
+2021-11-18 16:49-debug: getRawAssetPaths of script
+2021-11-18 16:49-debug: getJsonPathInfo of script
+2021-11-18 16:49-debug: containsAsset of ttffalse
+2021-11-18 16:49-debug: getAssetPathInfo of ttf
+2021-11-18 16:49-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:49-debug: getAssetPathInfo of image
+2021-11-18 16:49-debug: getRawAssetPaths of ttf
+2021-11-18 16:49-debug: getJsonPathInfo of ttf
+2021-11-18 16:49-debug: containsAsset of gltffalse
+2021-11-18 16:49-debug: getAssetPathInfo of gltf
+2021-11-18 16:49-debug: getRawAssetPaths of gltf
+2021-11-18 16:49-debug: containsAsset of scenefalse
+2021-11-18 16:49-debug: getRawAssetPaths of scene
+2021-11-18 16:49-debug: getJsonPathInfo of scene
+2021-11-18 16:49-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:49-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:49-debug: getJsonPathInfo of gltf
+2021-11-18 16:49-debug: getAssetPathInfo of scene
+2021-11-18 16:49-debug: build success in 13725 ms!
+2021-11-18 16:49-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:54-debug: Start record console... {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}
+2021-11-18 16:54-debug: =================================== Build Task (web-mobile) Start ================================
+2021-11-18 16:54-debug: cocos-service:(onBeforeBuild) start...0%
+2021-11-18 16:54-debug: Start build task, options:{"name":"NewProject","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","scenes":[{"url":"db://assets/scenes/adaptationScreen.scene","uuid":"c777f59c-7464-49a0-98f4-b7f4e50cefcf","inBundle":false}],"outputName":"web-mobile","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"0b9cd7","services":[]},"cocos-build-template":{"enterCocos":"","testArray":[]}}}
+2021-11-18 16:54-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-11-18 16:54-debug: Build with Cocos Creator 3.3.2
+2021-11-18 16:54-debug: Process: heapTotal 185.78MB heapUsed 177.75MB rss 191.31MB
+2021-11-18 16:54-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-11-18 16:54-debug: cocos-build-template:(onBeforeBuild) start...3%
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onBeforeBuild) ----
+2021-11-18 16:54-log: [cocos-build-template] cocos-build-template.webTestOptiononBeforeBuild
+2021-11-18 16:54-debug: Process: heapTotal 185.78MB heapUsed 177.96MB rss 191.50MB
+2021-11-18 16:54-debug: cocos-build-template:(onBeforeBuild)5%
+2021-11-18 16:54-debug: cocos-service:(onBeforeBuild)3%
+2021-11-18 16:54-debug: Query all assets info in project
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onBeforeBuild) success ----
+2021-11-18 16:54-debug: BuildAssetLibrary query-assets with assets 268
+2021-11-18 16:54-debug: BuildAssetLibrary initialized with asset 382!
+2021-11-18 16:54-debug: web-mobile:(onAfterInit) start...5%
+2021-11-18 16:54-debug:   Number of all scenes: 8
+2021-11-18 16:54-debug: // ---- web-mobile:(onAfterInit) ----
+2021-11-18 16:54-debug:   Number of other assets: 414
+2021-11-18 16:54-debug: Process: heapTotal 186.04MB heapUsed 178.64MB rss 193.04MB
+2021-11-18 16:54-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-11-18 16:54-debug: 加载刷新项目脚本 start8%
+2021-11-18 16:54-log: // ---- 加载刷新项目脚本 ----
+2021-11-18 16:54-debug: Process: heapTotal 186.04MB heapUsed 178.78MB rss 192.30MB
+2021-11-18 16:54-debug: web-mobile:(onAfterInit)8%
+2021-11-18 16:54-debug: reload all scripts.
+2021-11-18 16:54-debug:   Number of all scripts: 10
+2021-11-18 16:54-debug: Unregister PlayerCtrl
+2021-11-18 16:54-debug: Unregister BagSHowModle
+2021-11-18 16:54-debug: Unregister UiMain
+2021-11-18 16:54-debug: Unregister CubeRotate
+2021-11-18 16:54-debug: Unregister HpSp
+2021-11-18 16:54-debug: Unregister Physicals
+2021-11-18 16:54-debug: Unregister PlayerControll
+2021-11-18 16:54-debug: Unregister Ray
+2021-11-18 16:54-debug: Unregister Collision
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/collision.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/bagSHowModle.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/cubeRotate.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/physicals.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/hpSp.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/playerControll.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/uiShow3d.js'
+2021-11-18 16:54-debug: Invalidating 'pack:///mods/fs/0/assets/scripts/ray.js'
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Register PlayerCtrl
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/playerCtrl.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Register UiMain
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/adaptation/uiMain.js" loaded.
+2021-11-18 16:54-debug: Unregister UiShow3d
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/bagSHowModle.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/collision.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Register CubeRotate
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/cubeRotate.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Register HpSp
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/hpSp.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Register Physicals
+2021-11-18 16:54-debug: [[Executor]] Register PlayerControll
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/playerControll.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Register Ray
+2021-11-18 16:54-debug: [[Executor]] Register BagSHowModle
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/ray.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/uiShow3d.js" loaded.
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-11-18 16:54-debug: 加载刷新项目脚本 √9%
+2021-11-18 16:54-debug: 查询 asset bundle start9%
+2021-11-18 16:54-log: // ---- 查询 asset bundle ----
+2021-11-18 16:54-debug: Process: heapTotal 186.29MB heapUsed 179.03MB rss 192.38MB
+2021-11-18 16:54-debug: [[Executor]] Register UiShow3d
+2021-11-18 16:54-debug: [[Executor]] Register Collision
+2021-11-18 16:54-debug: [[Executor]] Module "pack:///mods/fs/0/assets/scripts/physicals.js" loaded.
+2021-11-18 16:54-debug: 查询 asset bundle √10%
+2021-11-18 16:54-debug: 查询使用的资源以及资源包配置 start10%
+2021-11-18 16:54-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-11-18 16:54-debug: Process: heapTotal 186.29MB heapUsed 179.10MB rss 192.43MB
+2021-11-18 16:54-debug: Number of scenes: 1
+2021-11-18 16:54-error: 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:54-debug: Number of assets: 33
+2021-11-18 16:54-debug: 查询使用的资源以及资源包配置 √11%
+2021-11-18 16:54-debug: 整理脚本分组与脚本数据 start11%
+2021-11-18 16:54-log: // ---- 整理脚本分组与脚本数据 ----
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.14MB rss 195.75MB
+2021-11-18 16:54-debug: Number of asset bundle: 1
+2021-11-18 16:54-debug: sort script group...
+2021-11-18 16:54-debug: 整理脚本分组与脚本数据 √13%
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.21MB rss 195.67MB
+2021-11-18 16:54-debug: 整理纹理压缩任务 start13%
+2021-11-18 16:54-log: // ---- 整理纹理压缩任务 ----
+2021-11-18 16:54-debug: Number of image-compress task: 0
+2021-11-18 16:54-debug: 初步划分 json 合并分组 start14%
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.27MB rss 195.74MB
+2021-11-18 16:54-log: // ---- 初步划分 json 合并分组 ----
+2021-11-18 16:54-debug: 初步划分 json 合并分组 √15%
+2021-11-18 16:54-debug: Number of json group: 1
+2021-11-18 16:54-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.32MB rss 195.79MB
+2021-11-18 16:54-debug: 整理纹理压缩任务 √14%
+2021-11-18 16:54-debug: 整理合并压缩 Texture2D 的 json 数据 √16%
+2021-11-18 16:54-log: // ----  ----
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.35MB rss 195.80MB
+2021-11-18 16:54-debug: 整理合并压缩 Texture2D 的 json 数据 start15%
+2021-11-18 16:54-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.37MB rss 195.83MB
+2021-11-18 16:54-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2021-11-18 16:54-debug: web-mobile:(onBeforeBuildAssets)20%
+2021-11-18 16:54-debug:  start20%
+2021-11-18 16:54-log: // ----  ----
+2021-11-18 16:54-debug: Process: heapTotal 187.04MB heapUsed 180.40MB rss 195.86MB
+2021-11-18 16:54-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2021-11-18 16:54-debug:  √18%
+2021-11-18 16:54-debug:  start16%
+2021-11-18 16:54-debug: Process: heapTotal 202.53MB heapUsed 187.58MB rss 210.57MB
+2021-11-18 16:54-debug: 打包脚本20%
+2021-11-18 16:54-debug: Copy externalScripts success!
+2021-11-18 16:54-debug: 打包脚本√20%
+2021-11-18 16:54-debug: 构建引擎20%
+2021-11-18 16:54-debug: Process: heapTotal 209.78MB heapUsed 183.11MB rss 204.18MB
+2021-11-18 16:54-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.3.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"E:\\CocosDashboard_1.0.11\\resources\\.editors\\Creator\\3.3.2\\resources\\resources\\3d\\engine"}
+2021-11-18 16:54-debug: Use cache engine: {link(C:\Users\EDZ\AppData\Local\Temp\CocosCreator\3.3.2\builder\engine\b2a851148c349b7e7aa74f984c398d9d)}
+2021-11-18 16:54-debug: 构建引擎√20%
+2021-11-18 16:54-debug: 构建自动图集 start27%
+2021-11-18 16:54-debug: Process: heapTotal 212.78MB heapUsed 184.16MB rss 204.93MB
+2021-11-18 16:54-debug: 构建自动图集 √33%
+2021-11-18 16:54-debug: 图片拷贝压缩任务 start33%
+2021-11-18 16:54-log: // ---- 图片拷贝压缩任务 ----
+2021-11-18 16:54-debug: Process: heapTotal 212.78MB heapUsed 184.20MB rss 204.85MB
+2021-11-18 16:54-debug:  √27%
+2021-11-18 16:54-debug: 图片拷贝压缩任务 √40%
+2021-11-18 16:54-debug: 将资源拷贝到指定位置 start40%
+2021-11-18 16:54-log: // ---- 将资源拷贝到指定位置 ----
+2021-11-18 16:54-debug: Process: heapTotal 212.78MB heapUsed 184.22MB rss 204.86MB
+2021-11-18 16:54-log: // ---- 构建自动图集 ----
+2021-11-18 16:54-debug: Asset Bundle(main) handle assets: 33
+2021-11-18 16:54-debug: 将资源拷贝到指定位置 √47%
+2021-11-18 16:54-debug: Process: heapTotal 212.78MB heapUsed 184.88MB rss 205.55MB
+2021-11-18 16:54-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2021-11-18 16:54-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-11-18 16:54-debug: Json group(build-task/json) compile success，json number: 6
+2021-11-18 16:54-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2021-11-18 16:54-debug: 压缩 zip bundle start53%
+2021-11-18 16:54-log: // ---- 压缩 zip bundle ----
+2021-11-18 16:54-debug: 给所有的资源加上 md5 后缀 start60%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.11MB rss 206.88MB
+2021-11-18 16:54-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.13MB rss 206.89MB
+2021-11-18 16:54-debug: 初始化 settings 与 config start70%
+2021-11-18 16:54-debug: 给所有的资源加上 md5 后缀 √70%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.15MB rss 206.88MB
+2021-11-18 16:54-debug: 压缩 zip bundle √60%
+2021-11-18 16:54-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-11-18 16:54-debug: tasks.settings.macro start71%
+2021-11-18 16:54-log: // ---- 初始化 settings 与 config ----
+2021-11-18 16:54-log: // ---- tasks.settings.macro ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.18MB rss 206.89MB
+2021-11-18 16:54-debug: 初始化 settings 与 config √71%
+2021-11-18 16:54-debug: tasks.settings.macro √71%
+2021-11-18 16:54-debug: 使用缓存 settings start71%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.24MB rss 206.89MB
+2021-11-18 16:54-log: // ---- 使用缓存 settings ----
+2021-11-18 16:54-debug: 使用缓存 settings √72%
+2021-11-18 16:54-debug: custom joint texture layouts start72%
+2021-11-18 16:54-log: // ---- custom joint texture layouts ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.31MB rss 206.91MB
+2021-11-18 16:54-debug: custom joint texture layouts √72%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.34MB rss 206.91MB
+2021-11-18 16:54-log: // ---- custom joint physics ----
+2021-11-18 16:54-debug: 填充脚本数据到 settings start73%
+2021-11-18 16:54-log: // ---- 填充脚本数据到 settings ----
+2021-11-18 16:54-debug: custom joint physics start72%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.36MB rss 206.91MB
+2021-11-18 16:54-debug: 填充场景数据到 settings start73%
+2021-11-18 16:54-log: // ---- 填充场景数据到 settings ----
+2021-11-18 16:54-debug: 填充脚本数据到 settings √73%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.39MB rss 206.91MB
+2021-11-18 16:54-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2021-11-18 16:54-debug: custom joint physics √73%
+2021-11-18 16:54-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-11-18 16:54-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2021-11-18 16:54-debug: 填充场景数据到 settings √74%
+2021-11-18 16:54-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start74%
+2021-11-18 16:54-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.41MB rss 206.91MB
+2021-11-18 16:54-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √75%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.43MB rss 206.91MB
+2021-11-18 16:54-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2021-11-18 16:54-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.46MB rss 206.91MB
+2021-11-18 16:54-debug: web-mobile:(onBeforeCompressSettings)77%
+2021-11-18 16:54-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-11-18 16:54-debug: options.md5Cache is false.
+2021-11-18 16:54-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.49MB rss 206.92MB
+2021-11-18 16:54-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-11-18 16:54-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-11-18 16:54-debug: cocos-service:(onBeforeCompressSettings)80%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.59MB rss 206.91MB
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onBeforeCompressSettings) ----
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onBeforeCompressSettings) success ----
+2021-11-18 16:54-debug: get settings testundefined
+2021-11-18 16:54-debug: cocos-build-template:(onBeforeCompressSettings)82%
+2021-11-18 16:54-log: // ----  ----
+2021-11-18 16:54-debug: cocos-build-template:(onBeforeCompressSettings) start...80%
+2021-11-18 16:54-debug:  start82%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.62MB rss 206.91MB
+2021-11-18 16:54-debug:  √83%
+2021-11-18 16:54-debug: 压缩 config.json 与 settings.js start83%
+2021-11-18 16:54-debug: 压缩 config.json 与 settings.js √84%
+2021-11-18 16:54-log: // ---- 保存 config.json ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.66MB rss 206.92MB
+2021-11-18 16:54-debug: 保存 config.json start84%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.72MB rss 206.92MB
+2021-11-18 16:54-debug: 保存 settings.json start85%
+2021-11-18 16:54-log: // ---- 保存 settings.json ----
+2021-11-18 16:54-log: // ---- 压缩 config.json 与 settings.js ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.75MB rss 206.92MB
+2021-11-18 16:54-debug: 保存 config.json √85%
+2021-11-18 16:54-debug: 整理静态模板文件 start86%
+2021-11-18 16:54-log: // ---- 整理静态模板文件 ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.87MB rss 206.92MB
+2021-11-18 16:54-debug: cocos-service:(onAfterCompressSettings) start...87%
+2021-11-18 16:54-debug: 整理静态模板文件 √87%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 188.89MB rss 211.88MB
+2021-11-18 16:54-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-11-18 16:54-debug: 保存 settings.json √86%
+2021-11-18 16:54-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-11-18 16:54-debug: cocos-build-template:(onAfterCompressSettings) start...90%
+2021-11-18 16:54-debug: cocos-service:(onAfterCompressSettings)90%
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onAfterCompressSettings) ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 185.91MB rss 211.47MB
+2021-11-18 16:54-log: webTestOptiononAfterCompressSettings
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onAfterCompressSettings) success ----
+2021-11-18 16:54-debug: cocos-build-template:(onAfterCompressSettings)93%
+2021-11-18 16:54-debug: web-mobile:(onAfterBuild) start...93%
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 186.18MB rss 211.47MB
+2021-11-18 16:54-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-11-18 16:54-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-11-18 16:54-debug: web-mobile:(onAfterBuild)95%
+2021-11-18 16:54-debug: cocos-service:(onAfterBuild) start...95%
+2021-11-18 16:54-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 188.40MB rss 211.50MB
+2021-11-18 16:54-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onAfterBuild) ----
+2021-11-18 16:54-debug: cocos-build-template:(onAfterBuild) start...98%
+2021-11-18 16:54-debug: cocos-service:(onAfterBuild)98%
+2021-11-18 16:54-debug: containsAsset of spritFrameInAtlasfalse
+2021-11-18 16:54-debug: getAssetPathInfo of spritFrameInAtlas
+2021-11-18 16:54-debug: Process: heapTotal 217.02MB heapUsed 188.47MB rss 211.50MB
+2021-11-18 16:54-debug: getJsonPathInfo of spritFrameInAtlas
+2021-11-18 16:54-debug: getRawAssetPaths of spritFrameInAtlas
+2021-11-18 16:54-debug: containsAsset of imagefalse
+2021-11-18 16:54-debug: getJsonPathInfo of image
+2021-11-18 16:54-debug: containsAsset of imageInAtlasfalse
+2021-11-18 16:54-debug: getAssetPathInfo of imageInAtlas
+2021-11-18 16:54-debug: getRawAssetPaths of imageInAtlas
+2021-11-18 16:54-debug: getJsonPathInfo of imageInAtlas
+2021-11-18 16:54-debug: containsAsset of spritAtlasfalse
+2021-11-18 16:54-debug: getAssetPathInfo of spritAtlas
+2021-11-18 16:54-debug: getRawAssetPaths of spritAtlas
+2021-11-18 16:54-debug: getJsonPathInfo of spritAtlas
+2021-11-18 16:54-debug: containsAsset of scriptfalse
+2021-11-18 16:54-debug: getAssetPathInfo of script
+2021-11-18 16:54-debug: getRawAssetPaths of script
+2021-11-18 16:54-debug: getJsonPathInfo of script
+2021-11-18 16:54-debug: containsAsset of ttffalse
+2021-11-18 16:54-debug: getAssetPathInfo of ttf
+2021-11-18 16:54-debug: getRawAssetPaths of ttf
+2021-11-18 16:54-debug: getJsonPathInfo of ttf
+2021-11-18 16:54-debug: containsAsset of gltffalse
+2021-11-18 16:54-debug: getAssetPathInfo of gltf
+2021-11-18 16:54-debug: getRawAssetPaths of gltf
+2021-11-18 16:54-debug: getAssetPathInfo of image
+2021-11-18 16:54-debug: getRawAssetPaths of image
+2021-11-18 16:54-debug: getAssetPathInfo of scene
+2021-11-18 16:54-debug: containsAsset of scenefalse
+2021-11-18 16:54-debug: getRawAssetPaths of scene
+2021-11-18 16:54-debug: getJsonPathInfo of scene
+2021-11-18 16:54-debug: getJsonPathInfo of gltf
+2021-11-18 16:54-debug: // ---- cocos-build-template:(onAfterBuild) success ----
+2021-11-18 16:54-debug: cocos-build-template:(onAfterBuild)100%
+2021-11-18 16:54-debug: build success in 11748 ms!
+2021-11-18 16:54-debug: Stop record console. {file(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\temp\builder\log\web-mobile2021-11-18 16-08.log)}

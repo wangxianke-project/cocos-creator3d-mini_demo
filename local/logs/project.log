@@ -1,86 +1,78 @@
-2021-11-03 09:14:13-log: [Package] menu@1.0.0 enable
-2021-11-03 09:14:13-log: [Package] profile@1.0.0 enable
-2021-11-03 09:14:13-log: [Package] messages@1.0.0 enable
-2021-11-03 09:14:13-log: [Package] program@1.0.0 enable
-2021-11-03 09:14:13-log: [Package] device@1.0.1 enable
-2021-11-03 09:14:14-log: [Package] ui-kit@1.0.1 enable
-2021-11-03 09:14:14-log: [Package] tester@1.0.0 enable
-2021-11-03 09:14:14-log: [Package] preferences@1.0.0 enable
-2021-11-03 09:14:15-log: Setup mods mgr.: 886.574ms
-2021-11-03 09:14:15-log: [Package] engine@1.0.5 enable
-2021-11-03 09:14:43-log: [Package] programming@1.0.0 enable
-2021-11-03 09:14:43-log: [Package] asset-db@1.0.0 enable
-2021-11-03 09:14:43-log: [Package] console@1.0.0 enable
-2021-11-03 09:14:44-log: [Package] scene@1.0.0 enable
-2021-11-03 09:14:44-log: [Package] project@1.0.1 enable
-2021-11-03 09:14:44-log: [Package] about@1.0.0 enable
-2021-11-03 09:14:46-log: [Package] server@1.0.0 enable
-2021-11-03 09:14:46-log: [Package] utils@1.0.0 enable
-2021-11-03 09:14:46-log: [Package] assets@1.0.0 enable
-2021-11-03 09:14:46-log: [Package] inspector@1.0.0 enable
-2021-11-03 09:14:46-log: [Package] hierarchy@1.0.0 enable
-2021-11-03 09:14:51-log: [Package] preview@1.0.1 enable
-2021-11-03 09:14:51-log: [Package] animator@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] builder@1.2.9 enable
-2021-11-03 09:14:52-log: [Package] node-library@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] shortcuts@1.0.1 enable
-2021-11-03 09:14:52-log: [Package] package-asset@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] reference-image@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] channel-upload-tools@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] runtime-dev-tools@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] alipay-mini-game@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] android@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] baidu-mini-game@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] bytedance-mini-game@1.0.1 enable
-2021-11-03 09:14:52-log: [Package] huawei-agc@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] ios@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] ios-app-clip@1.0.0 enable
-2021-11-03 09:14:52-log: [Package] mac@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] native@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] ohos@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] web-desktop@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] web-mobile@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] wechatgame@1.0.1 enable
-2021-11-03 09:14:54-log: [Package] windows@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] xiaomi-quick-game@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] cocos-play@1.0.0 enable
-2021-11-03 09:14:54-log: [Package] huawei-quick-game@1.0.0 enable
-2021-11-03 09:14:55-log: [Package] link-sure@1.0.0 enable
-2021-11-03 09:14:55-log: [Package] oppo-mini-game@1.0.0 enable
-2021-11-03 09:14:55-log: [Package] qtt@1.0.0 enable
-2021-11-03 09:14:55-log: [Package] vivo-mini-game@1.0.0 enable
-2021-11-03 09:14:56-log: [Package] cocos-service@3.0.1 enable
-2021-11-03 09:14:56-log: [Package] importer@1.0.0 enable
-2021-11-03 09:14:57-log: [Package] extension@3.0.10 enable
-2021-11-03 09:14:59-log: [Im-plugin] Check im-plugin version.
-2021-11-03 09:14:59-log: [Package] im-plugin@3.0.7 enable
-2021-11-03 09:14:59-log: [Package] lightmap@1.0.3 enable
-2021-11-03 09:14:59-log: [Package] cocos-build-template@1.0.0 enable
-2021-11-03 09:14:59-log: [Im-plugin] No online info of im-plugin.
-2021-11-03 09:15:03-log: [Scene] begin init
-2021-11-03 09:15:03-log: [Scene] require engine end
-2021-11-03 09:15:03-log: [Scene] Serialize end
-2021-11-03 09:15:03-log: [Scene] configureStartup end
-2021-11-03 09:15:03-info: [Scene] WebGL2 device initialized.
-2021-11-03 09:15:03-log: [Scene] Cocos Creator v3.3.2
-2021-11-03 09:15:03-info: [Scene] Forward render pipeline initialized.
-2021-11-03 09:15:03-log: [Scene] openEngine end
-2021-11-03 09:15:03-log: [Scene] configureEngine end
-2021-11-03 09:27:42-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:34:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:36:26-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:37:06-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:38:05-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:38:24-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:41:09-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:42:48-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:43:28-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:51:25-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 09:58:24-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:07:36-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:08:00-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:11:41-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:12:14-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:21:18-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:22:04-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
-2021-11-03 10:22:16-log: Use preview template {link(D:\CocosProject\testDemo\cocos3d20211013\20211014\demolist2\preview-template\index.ejs)}
+2021-11-18 15:53:36-log: [Package] menu@1.0.0 enable
+2021-11-18 15:53:36-log: [Package] profile@1.0.0 enable
+2021-11-18 15:53:36-log: [Package] messages@1.0.0 enable
+2021-11-18 15:53:36-log: [Package] program@1.0.0 enable
+2021-11-18 15:53:36-log: [Package] device@1.0.1 enable
+2021-11-18 15:53:36-log: [Package] ui-kit@1.0.1 enable
+2021-11-18 15:53:36-log: [Package] tester@1.0.0 enable
+2021-11-18 15:53:36-log: [Package] preferences@1.0.0 enable
+2021-11-18 15:53:37-log: Setup mods mgr.: 248.712ms
+2021-11-18 15:53:37-log: [Package] engine@1.0.5 enable
+2021-11-18 15:53:39-log: [Package] programming@1.0.0 enable
+2021-11-18 15:53:39-log: [Package] asset-db@1.0.0 enable
+2021-11-18 15:53:39-log: [Package] console@1.0.0 enable
+2021-11-18 15:53:39-log: [Package] scene@1.0.0 enable
+2021-11-18 15:53:39-log: [Package] server@1.0.0 enable
+2021-11-18 15:53:39-log: [Package] utils@1.0.0 enable
+2021-11-18 15:53:39-log: [Package] assets@1.0.0 enable
+2021-11-18 15:53:40-log: [Package] inspector@1.0.0 enable
+2021-11-18 15:53:40-log: [Package] hierarchy@1.0.0 enable
+2021-11-18 15:53:41-log: [Package] preview@1.0.1 enable
+2021-11-18 15:53:41-log: [Package] animator@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] builder@1.2.9 enable
+2021-11-18 15:53:42-log: [Package] node-library@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] shortcuts@1.0.1 enable
+2021-11-18 15:53:42-log: [Package] package-asset@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] reference-image@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] channel-upload-tools@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] alipay-mini-game@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] android@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] baidu-mini-game@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] bytedance-mini-game@1.0.1 enable
+2021-11-18 15:53:42-log: [Package] huawei-agc@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] ios@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] ios-app-clip@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] mac@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] native@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] ohos@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] web-desktop@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] web-mobile@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] wechatgame@1.0.1 enable
+2021-11-18 15:53:42-log: [Package] windows@1.0.0 enable
+2021-11-18 15:53:42-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] cocos-play@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] huawei-quick-game@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] link-sure@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] oppo-mini-game@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] qtt@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] vivo-mini-game@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] cocos-service@3.0.1 enable
+2021-11-18 15:53:43-log: [Package] importer@1.0.0 enable
+2021-11-18 15:53:43-log: [Package] extension@3.0.10 enable
+2021-11-18 15:53:43-log: [Im-plugin] Check im-plugin version.
+2021-11-18 15:53:43-log: [Package] im-plugin@3.0.7 enable
+2021-11-18 15:53:43-log: [Package] lightmap@1.0.3 enable
+2021-11-18 15:53:43-log: [Package] cocos-build-template@1.0.0 enable
+2021-11-18 15:53:44-log: [Im-plugin] No online info of im-plugin.
+2021-11-18 15:53:44-log: [Scene] begin init
+2021-11-18 15:53:44-log: [Scene] require engine end
+2021-11-18 15:53:44-log: [Scene] Serialize end
+2021-11-18 15:53:44-log: [Scene] configureStartup end
+2021-11-18 15:53:44-info: [Scene] WebGL2 device initialized.
+2021-11-18 15:53:44-log: [Scene] Cocos Creator v3.3.2
+2021-11-18 15:53:45-info: [Scene] Forward render pipeline initialized.
+2021-11-18 15:53:45-log: [Scene] openEngine end
+2021-11-18 15:53:45-log: [Scene] configureEngine end
+2021-11-18 15:53:46-warn: [Scene] showPlayer<PlayerCtrl> players should be an array, but now it is  null
+2021-11-18 15:53:49-warn: [Scene] showPlayer<PlayerCtrl> players should be an array, but now it is  null
+2021-11-18 15:53:49-error: [Window] Cannot read property 'length' of null
+2021-11-18 15:54:47-warn: [Scene] showPlayer<PlayerCtrl> players should be an array, but now it is  null
+2021-11-18 15:54:47-error: [Window] Cannot read property 'length' of null
+2021-11-18 16:08:21-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:10:20-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:11:38-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:32:26-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:33:41-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:49:27-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。
+2021-11-18 16:54:13-error: [Build] 资源（{asset(db://assets/res/modles/cocos/helmet.mtl)}）引用的资源（{asset(8949c1f1-9b2b-418c-b150-611a94543416@6c48a)}）无法在项目内找到，请检查该资源是否导入失败或者被误删除。

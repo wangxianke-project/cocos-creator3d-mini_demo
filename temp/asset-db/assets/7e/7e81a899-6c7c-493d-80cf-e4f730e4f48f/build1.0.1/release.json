@@ -1,0 +1,113 @@
+[
+    1,
+    [
+        "cdYY3lWfxImbpPVRlfPiTO@6c48a",
+        "19gZFizj9PfIiJiy81vydM@6c48a",
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "normalMap",
+        "pbrMap",
+        "metallicRoughnessMap",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_techIdx",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "1",
+            [
+                {
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {},
+                    "rasterizerState": {}
+                }
+            ],
+            [
+                {
+                    "USE_NORMAL_MAP": true,
+                    "USE_ALBEDO_MAP": true,
+                    "USE_METALLIC_ROUGHNESS_MAP": true,
+                    "ROUGHNESS_CHANNEL": "g",
+                    "METALLIC_CHANNEL": "b",
+                    "OCCLUSION_CHANNEL": "g",
+                    "USE_SKINNING": true
+                }
+            ],
+            [
+                [
+                    [
+                        {
+                            "occlusion": 1,
+                            "roughness": 1,
+                            "metallic": 1,
+                            "mainTexture": null
+                        },
+                        "emissive",
+                        8,
+                        [
+                            4,
+                            0
+                        ],
+                        "normalMap",
+                        6,
+                        0,
+                        "pbrMap",
+                        6,
+                        1,
+                        "metallicRoughnessMap",
+                        6,
+                        2
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0,
+        0,
+        0
+    ],
+    [
+        0,
+        1,
+        2,
+        3
+    ],
+    [
+        1,
+        0,
+        0,
+        2
+    ]
+]

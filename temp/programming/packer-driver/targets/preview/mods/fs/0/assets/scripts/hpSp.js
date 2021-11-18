@@ -155,26 +155,15 @@ System.register(["cc"], function (_export, _context) {
             if (this.useLerpMove) {
               // 通知插值移动
               // 1. 插值移动到目标点，更有真实性
-              if (!this.lerpFinishPos) {
-                var start = new Vec3(this.node.position.x, this.node.position.y, this.node.position.z);
-                var end = new Vec3(this.par.node.worldPosition.x, this.node.position.y, this.par.node.worldPosition.z);
+              var start = new Vec3(this.node.position.x, this.node.position.y, this.node.position.z);
+              var end = new Vec3(this.par.node.worldPosition.x, this.node.position.y, this.par.node.worldPosition.z);
 
-                var _ve = new Vec3(0, 0, 0); // 插值后终点
+              var _ve = new Vec3(0, 0, 0); // 插值后终点
 
 
-                Vec3.lerp(_ve, start, end, 0.5); // 每次终点取起点和终点的中间值
+              Vec3.lerp(_ve, start, end, this.moveSpeed * deltaTime); // 每次终点取起点和终点的中间值
 
-                this.lerpFinishPos = _ve;
-              } else {
-                // 判断是否移动到插值终点
-                this.node.translate(new Vec3(0, 0, 1).multiplyScalar(deltaTime * this.moveSpeed));
-
-                var _dis2 = Vec3.distance(this.node.position, this.lerpFinishPos);
-
-                if (_dis2 <= 0.2) {
-                  this.lerpFinishPos = null; // 清空下次继续找中间点
-                }
-              }
+              this.node.setWorldPosition(_ve);
             } else {
               // 2. 通过translate移动到目标点,效果不够真实圆滑
               this.node.translate(new Vec3(0, 0, 1).multiplyScalar(deltaTime * this.moveSpeed)); // 旋转后 想对于自己本地坐标想自己的前方移动

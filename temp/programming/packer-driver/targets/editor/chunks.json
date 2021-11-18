@@ -13,13 +13,6 @@
     "physicalLocation": "fs/0/assets/scripts/uiShow3d.js",
     "mTimestamp": 1635497758148
   },
-  "assets/scripts/bagSHowModle.js": {
-    "imports": {
-      "cc": "quick-pack:/cce/internal/x/cc.js"
-    },
-    "physicalLocation": "fs/0/assets/scripts/bagSHowModle.js",
-    "mTimestamp": 1635497757972
-  },
   "assets/scripts/physicals.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
@@ -47,6 +40,27 @@
     },
     "physicalLocation": "fs/0/assets/scripts/ray.js",
     "mTimestamp": 1635818830590
+  },
+  "assets/scripts/cubeRotate.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/cubeRotate.js",
+    "mTimestamp": 1635909049325
+  },
+  "assets/scripts/hpSp.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/hpSp.js",
+    "mTimestamp": 1635923926395
+  },
+  "assets/scripts/bagSHowModle.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/bagSHowModle.js",
+    "mTimestamp": 1636953635730
   },
   "quick-pack:/cce/internal/x/cc.js": {
     "imports": {
@@ -136,30 +150,40 @@
       }
     },
     "physicalLocation": "cce/internal/x/cc.js",
-    "mTimestamp": 1635902102969,
+    "mTimestamp": 1637222024827,
     "isEntry": true,
     "exposeAs": "cce:/internal/x/cc"
   },
   "quick-pack:/cce/internal/x/prerequisite-imports.js": {
     "imports": {
-      "__unresolved_0": "assets/scripts/bagSHowModle.js",
-      "__unresolved_4": "assets/scripts/playerControll.js",
-      "__unresolved_1": "assets/scripts/collision.js",
-      "__unresolved_5": "assets/scripts/ray.js",
-      "__unresolved_6": "assets/scripts/uiShow3d.js",
-      "__unresolved_3": "assets/scripts/physicals.js",
-      "__unresolved_2": "assets/scripts/hpSp.js"
+      "__unresolved_2": "assets/scripts/bagSHowModle.js",
+      "__unresolved_3": "assets/scripts/collision.js",
+      "__unresolved_4": "assets/scripts/cubeRotate.js",
+      "__unresolved_5": "assets/scripts/hpSp.js",
+      "__unresolved_7": "assets/scripts/playerControll.js",
+      "__unresolved_8": "assets/scripts/ray.js",
+      "__unresolved_6": "assets/scripts/physicals.js",
+      "__unresolved_9": "assets/scripts/uiShow3d.js",
+      "__unresolved_0": "assets/scripts/adaptation/playerCtrl.js",
+      "__unresolved_1": "assets/scripts/adaptation/uiMain.js"
     },
     "physicalLocation": "cce/internal/x/prerequisite-imports.js",
-    "mTimestamp": 1635906136572,
+    "mTimestamp": 1637226394066,
     "isEntry": true,
     "exposeAs": "cce:/internal/x/prerequisite-imports"
   },
-  "assets/scripts/hpSp.js": {
+  "assets/scripts/adaptation/playerCtrl.js": {
     "imports": {
       "cc": "quick-pack:/cce/internal/x/cc.js"
     },
-    "physicalLocation": "fs/0/assets/scripts/hpSp.js",
-    "mTimestamp": 1635906136634
+    "physicalLocation": "fs/0/assets/scripts/adaptation/playerCtrl.js",
+    "mTimestamp": 1637226394114
+  },
+  "assets/scripts/adaptation/uiMain.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/adaptation/uiMain.js",
+    "mTimestamp": 1637226394150
   }
 }
